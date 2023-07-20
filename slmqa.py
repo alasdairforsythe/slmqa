@@ -17,7 +17,7 @@ class Benchmark:
             self.score += 1
         self.total += 1
 
-    def get_score(self):
+    def score(self):
         if self.total == 0:
             return 0
         return (self.score * 100) / self.total
