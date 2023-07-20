@@ -33,7 +33,7 @@ for question_index, question_string in enumerate(questions_list):
   # answer_string = generate_answer_from_your_model(question_string)
   bench.submit_answer(question_index, answer_string)
 
-score = bench.get_score()
+score = bench.score()
 ```
 
 ### Example Usage with TokenMonster (batch tokenize)
@@ -52,5 +52,5 @@ for question_index, question_tokens in enumerate(tokens_list):
   answer_string = vocab.decode(answer_tokens)
   bench.submit_answer(question_index, answer_string)
 
-score = bench.get_score()
+score = bench.score()
 ```
