@@ -1,6 +1,6 @@
 # slmqa
 
-slmqa is a simple question-answer evaluation benchmark for small language models. It includes a dataset of 909 general knowledge question-answer pairs. The QA pairs were generated with gpt-3.5-turbo, stripped of duplicates and answers shorter than 5 characters, and cleaned by hand.
+slmqa is a simple question-answer evaluation benchmark for small language models. It includes a dataset of 908 general knowledge question-answer pairs. The QA pairs were generated with gpt-3.5-turbo, stripped of duplicates and answers shorter than 5 characters, and cleaned by hand.
 
 The score is the percentage of correct answers.
 
