@@ -1,0 +1,3638 @@
+[
+    {
+        "question": "What is the name of the highest mountain in the world?",
+        "answer": "everest"
+    },
+    {
+        "question": "What is the name of the famous Austrian composer who wrote the Ninth Symphony?",
+        "answer": "beethoven"
+    },
+    {
+        "question": "Which country is the largest by area?",
+        "answer": "russia"
+    },
+    {
+        "question": "Who is the author of \"The Great Gatsby\"?",
+        "answer": "fitzgerald"
+    },
+    {
+        "question": "Who is credited with discovering penicillin?",
+        "answer": "fleming"
+    },
+    {
+        "question": "Who played Neo in The Matrix?",
+        "answer": "reeves"
+    },
+    {
+        "question": "What is the smallest country in the world by land area?",
+        "answer": "vatican"
+    },
+    {
+        "question": "Who directed the movie \"Schindler's List\"?",
+        "answer": "spielberg"
+    },
+    {
+        "question": "What is the name of the smallest planet in our Solar System?",
+        "answer": "mercury"
+    },
+    {
+        "question": "Which ocean is the largest?",
+        "answer": "pacific"
+    },
+    {
+        "question": "Who is the first woman to win a Nobel Prize?",
+        "answer": "curie"
+    },
+    {
+        "question": "Who painted the famous artwork \"Starry Night\"?",
+        "answer": "van gogh"
+    },
+    {
+        "question": "What is the capital city of Australia?",
+        "answer": "canberra"
+    },
+    {
+        "question": "Who invented the lightbulb?",
+        "answer": "edison"
+    },
+    {
+        "question": "What is the formal term for a fear of clowns?",
+        "answer": "coulrophobia"
+    },
+    {
+        "question": "What color is an amethyst?",
+        "answer": "purple"
+    },
+    {
+        "question": "What is a group of flamingos called?",
+        "answer": "flamboyance"
+    },
+    {
+        "question": "What is the name of the planet that Luke Skywalker lives on in Star Wars?",
+        "answer": "tatooine"
+    },
+    {
+        "question": "What is the term for a word that is spelled the same backwards?",
+        "answer": "palindrome"
+    },
+    {
+        "question": "What is the term for a shape with eight sides?",
+        "answer": "octagon"
+    },
+    {
+        "question": "What is the name of the smallest state in the United States?",
+        "answer": "rhode island"
+    },
+    {
+        "question": "What is the term for a word or phrase that means the opposite of another word or phrase?",
+        "answer": "antonym"
+    },
+    {
+        "question": "What is the term used for a word that has the same meaning as another word?",
+        "answer": "synonym"
+    },
+    {
+        "question": "Who is the protagonist in Jules Verne's \"Twenty Thousand Leagues Under the Sea\"?",
+        "answer": "captain nemo"
+    },
+    {
+        "question": "What color is the center stripe on the French flag?",
+        "answer": "white"
+    },
+    {
+        "question": "What is the term for a word that has the same spelling but a different meaning and pronunciation when capitalized?",
+        "answer": "capitonym"
+    },
+    {
+        "question": "What is the largest freshwater lake in the world?",
+        "answer": "lake superior"
+    },
+    {
+        "question": "What is the name of the largest hot desert on Earth?",
+        "answer": "sahara"
+    },
+    {
+        "question": "What is a group of camels called?",
+        "answer": "caravan"
+    },
+    {
+        "question": "What is the highest peak in North America?",
+        "answer": "denalimt mckinley"
+    },
+    {
+        "question": "What is the term used to describe a word that sounds like the noise it represents?",
+        "answer": "onomatopoeia"
+    },
+    {
+        "question": "What type of fruit is a nectarine?",
+        "answer": "stone fruit"
+    },
+    {
+        "question": "Which animal's scientific name is \"Lutherus mariae\"?",
+        "answer": "mary river turtle"
+    },
+    {
+        "question": "What type of element is chlorine?",
+        "answer": "halogen"
+    },
+    {
+        "question": "What is the process called where liquid turns into gas?",
+        "answer": "evaporation"
+    },
+    {
+        "question": "What country is the largest island in the world?",
+        "answer": "australia"
+    },
+    {
+        "question": "What is the largest bone in the human body?",
+        "answer": "femur"
+    },
+    {
+        "question": "What kind of animal is a pika?",
+        "answer": "rodent"
+    },
+    {
+        "question": "What is the primary color that absorbs all other colors?",
+        "answer": "black"
+    },
+    {
+        "question": "What is the process of breaking down food in your body called?",
+        "answer": "digestion"
+    },
+    {
+        "question": "What planet has the shortest day?",
+        "answer": "jupiter"
+    },
+    {
+        "question": "What type of rock is formed from lava?",
+        "answer": "igneous"
+    },
+    {
+        "question": "What is the name of the galaxy we live in?",
+        "answer": "milky way"
+    },
+    {
+        "question": "What is the process by which plants use sunlight to create food?",
+        "answer": "photosynthesis"
+    },
+    {
+        "question": "What is the study of coins and currency called?",
+        "answer": "numismatics"
+    },
+    {
+        "question": "What is the process of creating a 3D object from a digital model called?",
+        "answer": "3d printing"
+    },
+    {
+        "question": "Who was the lead singer of the British rock band Queen?",
+        "answer": "freddie"
+    },
+    {
+        "question": "Who is the author of \"The Catcher In The Rye\"?",
+        "answer": "salinger"
+    },
+    {
+        "question": "What is the name given to the study of birds?",
+        "answer": "ornithology"
+    },
+    {
+        "question": "What is the name of the first human who walked on the moon?",
+        "answer": "armstrong"
+    },
+    {
+        "question": "Who wrote the poem \"The Waste Land\"?",
+        "answer": "eliot"
+    },
+    {
+        "question": "Who was the philosopher who famously said \"I think, therefore I am\"?",
+        "answer": "descartes"
+    },
+    {
+        "question": "Who wrote the book \"To Kill a Mockingbird\"?",
+        "answer": "harper lee"
+    },
+    {
+        "question": "What is the highest mountain peak in Africa?",
+        "answer": "kilimanjaro"
+    },
+    {
+        "question": "Who painted the famous portrait known as the Mona Lisa?",
+        "answer": "leonardo da vinci"
+    },
+    {
+        "question": "Which country produces the most coffee in the world?",
+        "answer": "brazil"
+    },
+    {
+        "question": "Who composed the famous opera \"The Barber of Seville\"?",
+        "answer": "rossini"
+    },
+    {
+        "question": "What is the pizza with tomato sauce, mozzarella and basil called?",
+        "answer": "margherita"
+    },
+    {
+        "question": "Who is the author of \"The Lord of the Rings\" trilogy?",
+        "answer": "tolkien"
+    },
+    {
+        "question": "What is the third largest ocean in the world?",
+        "answer": "indian"
+    },
+    {
+        "question": "Who is known as the father of psychoanalysis?",
+        "answer": "freud"
+    },
+    {
+        "question": "Which planet has the longest day?",
+        "answer": "venus"
+    },
+    {
+        "question": "What popular music genre originated in the United States in the 1950s?",
+        "answer": "rock and roll"
+    },
+    {
+        "question": "What is the famous address \"221B Baker Street\" associated with?",
+        "answer": "sherlock holmes"
+    },
+    {
+        "question": "Who was the first president of the USA?",
+        "answer": "washington"
+    },
+    {
+        "question": "What is the national sport of Canada?",
+        "answer": "hockey"
+    },
+    {
+        "question": "Who played Forrest Gump in the movie of the same name?",
+        "answer": "hanks"
+    },
+    {
+        "question": "What is the most common gas in the earth\u2019s atmosphere?",
+        "answer": "nitrogen"
+    },
+    {
+        "question": "What is the primary ingredient in hummus?",
+        "answer": "chickpeas"
+    },
+    {
+        "question": "Who is known as the \"King of Pop\"?",
+        "answer": "jackson"
+    },
+    {
+        "question": "Who was the first black President of South Africa?",
+        "answer": "mandela"
+    },
+    {
+        "question": "What was the first Pixar movie?",
+        "answer": "toy story"
+    },
+    {
+        "question": "What is the name of the Italian dumpling soup?",
+        "answer": "minestrone"
+    },
+    {
+        "question": "Who wrote the famous novel Jane Eyre?",
+        "answer": "bronte"
+    },
+    {
+        "question": "Which singer has the nickname \u201cQueen of Soul\u201d?",
+        "answer": "aretha franklin"
+    },
+    {
+        "question": "What is the largest animal in the world?",
+        "answer": "whale"
+    },
+    {
+        "question": "Who is credited with writing \"The Republic\"?",
+        "answer": "plato"
+    },
+    {
+        "question": "What is the fastest animal on land?",
+        "answer": "cheetah"
+    },
+    {
+        "question": "Who directed the movie \"The Godfather\"?",
+        "answer": "coppola"
+    },
+    {
+        "question": "Who is considered as the father of modern physics?",
+        "answer": "einstein"
+    },
+    {
+        "question": "What is a popular Japanese dish made of vinegared rice and raw fish?",
+        "answer": "sushi"
+    },
+    {
+        "question": "What is the study of the human mind and behavior called?",
+        "answer": "psychology"
+    },
+    {
+        "question": "Who founded Buddhism?",
+        "answer": "buddha"
+    },
+    {
+        "question": "What is the capital of Burkina Faso?",
+        "answer": "ouagadougou"
+    },
+    {
+        "question": "What is the opposite of \"nocturnal\"?",
+        "answer": "diurnal"
+    },
+    {
+        "question": "What is the longest river in America?",
+        "answer": "missouri"
+    },
+    {
+        "question": "What is the term for the outer layer of skin on a person's body?",
+        "answer": "epidermis"
+    },
+    {
+        "question": "Which color is produced by the combination of red and yellow?",
+        "answer": "orange"
+    },
+    {
+        "question": "What is the study of caves called?",
+        "answer": "speleology"
+    },
+    {
+        "question": "What is the large muscle that enables us to smile called?",
+        "answer": "zygomaticus"
+    },
+    {
+        "question": "What is the sticky substance produced by the pine tree called?",
+        "answer": "resin"
+    },
+    {
+        "question": "What is the science of studying fossils called?",
+        "answer": "paleontology"
+    },
+    {
+        "question": "What is the term used to describe the study of rocks and their formation?",
+        "answer": "petrology"
+    },
+    {
+        "question": "What is the name of the process by which a caterpillar turns into a butterfly?",
+        "answer": "metamorphosis"
+    },
+    {
+        "question": "What type of bird is the largest living species?",
+        "answer": "ostrich"
+    },
+    {
+        "question": "What is the process of changing from a solid to a gas called?",
+        "answer": "sublimation"
+    },
+    {
+        "question": "What nutrient does the body produce when exposed to sunlight?",
+        "answer": "vitamin d"
+    },
+    {
+        "question": "What do you call a polygon with six sides?",
+        "answer": "hexagon"
+    },
+    {
+        "question": "What is the name for the red pigment found in blood?",
+        "answer": "hemoglobin"
+    },
+    {
+        "question": "What is a scientist who studies earthquakes and the movement of the Earth's crust called?",
+        "answer": "seismologist"
+    },
+    {
+        "question": "What do you call an organism that feeds on decaying matter?",
+        "answer": "detritivore"
+    },
+    {
+        "question": "What do you call a polygon with ten sides?",
+        "answer": "decagon"
+    },
+    {
+        "question": "What is the collective noun for a group of lions?",
+        "answer": "pride"
+    },
+    {
+        "question": "What is the capital of Uzbekistan?",
+        "answer": "tashkent"
+    },
+    {
+        "question": "Who composed The Four Seasons?",
+        "answer": "vivaldi"
+    },
+    {
+        "question": "What is the scientific name for the study of bugs?",
+        "answer": "entomology"
+    },
+    {
+        "question": "What element has the chemical symbol \"He\"?",
+        "answer": "helium"
+    },
+    {
+        "question": "What is the capital city of Mongolia?",
+        "answer": "ulaanbaatar"
+    },
+    {
+        "question": "What is the seventh planet from the Sun?",
+        "answer": "uranus"
+    },
+    {
+        "question": "What is the largest city in the world?",
+        "answer": "tokyo"
+    },
+    {
+        "question": "What does the acronym DNA stand for?",
+        "answer": "deoxyribonucleic acid"
+    },
+    {
+        "question": "Who is the lead singer of Coldplay?",
+        "answer": "chris martin"
+    },
+    {
+        "question": "What is the term for the science of racing road vehicles?",
+        "answer": "kinematics"
+    },
+    {
+        "question": "Who directed the Lord of the Rings movies?",
+        "answer": "peter jackson"
+    },
+    {
+        "question": "Who discovered the laws of motion?",
+        "answer": "newton"
+    },
+    {
+        "question": "What is the name of the first Harry Potter book?",
+        "answer": "philosophers stone sorcerers stone in the us"
+    },
+    {
+        "question": "What is the name of the main character in The Hunger Games?",
+        "answer": "katniss"
+    },
+    {
+        "question": "What is the name of the first man to circumnavigate the world?",
+        "answer": "magellan"
+    },
+    {
+        "question": "What is the name of the hormone responsible for regulating sleep?",
+        "answer": "melatonin"
+    },
+    {
+        "question": "Who is the lead singer of the band Coldplay?",
+        "answer": "martin"
+    },
+    {
+        "question": "What is the capital city of Spain?",
+        "answer": "madrid"
+    },
+    {
+        "question": "What is the name of the theory that explains the origin of the universe?",
+        "answer": "big bang"
+    },
+    {
+        "question": "What is the name of the first robot to be sent to space?",
+        "answer": "valkyrie"
+    },
+    {
+        "question": "What is the largest type of penguin?",
+        "answer": "emperor"
+    },
+    {
+        "question": "What is the name of the smallest ocean?",
+        "answer": "arctic"
+    },
+    {
+        "question": "Who was the first female British Prime Minister?",
+        "answer": "thatcher"
+    },
+    {
+        "question": "What is the capital of Argentina?",
+        "answer": "buenos aires"
+    },
+    {
+        "question": "What is H2O?",
+        "answer": "water"
+    },
+    {
+        "question": "What country is famous for pizza and pasta?",
+        "answer": "italy"
+    },
+    {
+        "question": "What is the first book of the Bible?",
+        "answer": "genesis"
+    },
+    {
+        "question": "What is the most popular language in the world?",
+        "answer": "mandarin"
+    },
+    {
+        "question": "Who wrote \"War and Peace\"?",
+        "answer": "tolstoy"
+    },
+    {
+        "question": "What is the name of the organ that pumps blood in the body?",
+        "answer": "heart"
+    },
+    {
+        "question": "What is the first name of physicist Einstein?",
+        "answer": "albert"
+    },
+    {
+        "question": "Who wrote the novel 1984?",
+        "answer": "orwell"
+    },
+    {
+        "question": "Who is the author of \"Pride and Prejudice\"?",
+        "answer": "austen"
+    },
+    {
+        "question": "In what city is the Red Square located?",
+        "answer": "moscow"
+    },
+    {
+        "question": "What is the name of the band that released the album \"Thriller\"?",
+        "answer": "jacksons"
+    },
+    {
+        "question": "Who is the Greek god of the underworld?",
+        "answer": "hades"
+    },
+    {
+        "question": "Who played the lead role in the 2019 film Joker?",
+        "answer": "joaquin phoenix"
+    },
+    {
+        "question": "Who invented the World Wide Web?",
+        "answer": "tim bernerslee"
+    },
+    {
+        "question": "What is the name of the closest star to Earth?",
+        "answer": "proxima centauri"
+    },
+    {
+        "question": "Which chemical element has the symbol K?",
+        "answer": "potassium"
+    },
+    {
+        "question": "Who wrote the Great Gatsby?",
+        "answer": "f scott fitzgerald"
+    },
+    {
+        "question": "What is the phenomenon known as when the Moon passes between the Earth and the Sun, blocking the sunlight?",
+        "answer": "solar eclipse"
+    },
+    {
+        "question": "What is the leading cause of gum disease?",
+        "answer": "plaque"
+    },
+    {
+        "question": "Who created the first version of Microsoft Windows?",
+        "answer": "bill gates"
+    },
+    {
+        "question": "What do you call the study of the structure of stars?",
+        "answer": "astrophysics"
+    },
+    {
+        "question": "What does the acronym FOMO stand for?",
+        "answer": "fear of missing out"
+    },
+    {
+        "question": "What is a group of rhinoceroses called?",
+        "answer": "crash"
+    },
+    {
+        "question": "What is the national flower of Japan?",
+        "answer": "cherry blossom"
+    },
+    {
+        "question": "Which element has the symbol Mg on the periodic table?",
+        "answer": "magnesium"
+    },
+    {
+        "question": "What is the name of the main character in \"The Catcher in the Rye\"?",
+        "answer": "holden caulfield"
+    },
+    {
+        "question": "What is the tallest mountain in Africa?",
+        "answer": "mount kilimanjaro"
+    },
+    {
+        "question": "Who painted the famous work \"The Starry Night\"?",
+        "answer": "vincent van gogh"
+    },
+    {
+        "question": "What does the acronym AIDS stand for?",
+        "answer": "acquired immunodeficiency syndrome"
+    },
+    {
+        "question": "What is the process called that converts sugar to alcohol?",
+        "answer": "fermentation"
+    },
+    {
+        "question": "What is the capital of Iceland?",
+        "answer": "reykjavik"
+    },
+    {
+        "question": "What is the only bird capable of flying backwards?",
+        "answer": "hummingbird"
+    },
+    {
+        "question": "What is the name given to the study of earthquakes?",
+        "answer": "seismology"
+    },
+    {
+        "question": "Which animal is the national emblem of Canada?",
+        "answer": "beaver"
+    },
+    {
+        "question": "What is the process by which food is converted in the body to energy called?",
+        "answer": "metabolism"
+    },
+    {
+        "question": "What is the tallest mammal on earth?",
+        "answer": "giraffe"
+    },
+    {
+        "question": "What element has the symbol H?",
+        "answer": "hydrogen"
+    },
+    {
+        "question": "What is the fear of peanut butter sticking to the roof of your mouth called?",
+        "answer": "arachibutyrophobia"
+    },
+    {
+        "question": "What type of animal is a komodo dragon?",
+        "answer": "lizard"
+    },
+    {
+        "question": "What is the nickname of the US state of Indiana?",
+        "answer": "hoosier"
+    },
+    {
+        "question": "What is the fear of numbers called?",
+        "answer": "numerophobia"
+    },
+    {
+        "question": "What is the largest internal organ in the human body?",
+        "answer": "liver"
+    },
+    {
+        "question": "Who was the first woman to win a Nobel Prize (in any category)?",
+        "answer": "marie"
+    },
+    {
+        "question": "What is the fear of being without mobile phone coverage called?",
+        "answer": "nomophobia"
+    },
+    {
+        "question": "What is the fear of running out of battery on your mobile device called?",
+        "answer": "low battery anxiety"
+    },
+    {
+        "question": "What is the scientific name for the fear of the number 13?",
+        "answer": "triskaidekaphobia"
+    },
+    {
+        "question": "Which American state is known as the \"Sunshine State\"?",
+        "answer": "florida"
+    },
+    {
+        "question": "What country won the first World Cup?",
+        "answer": "uruguay"
+    },
+    {
+        "question": "What is the capital city of New Zealand?",
+        "answer": "wellington"
+    },
+    {
+        "question": "Who is the author of the Harry Potter books?",
+        "answer": "rowling"
+    },
+    {
+        "question": "Which river runs through Paris?",
+        "answer": "seine"
+    },
+    {
+        "question": "In which country was the game of chess invented?",
+        "answer": "india"
+    },
+    {
+        "question": "Which pop star had a hit song called \"Uptown Funk\"?",
+        "answer": "bruno mars"
+    },
+    {
+        "question": "What is the study of celestial bodies and the universe called?",
+        "answer": "astronomy"
+    },
+    {
+        "question": "What is the capital city of Canada?",
+        "answer": "ottawa"
+    },
+    {
+        "question": "What branch of biology deals with the study of microorganisms?",
+        "answer": "microbiology"
+    },
+    {
+        "question": "Who composed the song \"Yesterday\"?",
+        "answer": "mccartney"
+    },
+    {
+        "question": "What is the study of knowledge, reality, and existence called?",
+        "answer": "philosophy"
+    },
+    {
+        "question": "Who was the first U.S. president to appear on television?",
+        "answer": "roosevelt"
+    },
+    {
+        "question": "What is the name for a chemical that changes color in the presence of an acid or a base?",
+        "answer": "indicator"
+    },
+    {
+        "question": "How many sides does an octagon have?",
+        "answer": "eight"
+    },
+    {
+        "question": "Who is the all-time leading scorer in NBA history?",
+        "answer": "kareem"
+    },
+    {
+        "question": "What is the strongest natural force on Earth?",
+        "answer": "gravity"
+    },
+    {
+        "question": "What is the name of Beyonce's album that includes the song \"Formation\"?",
+        "answer": "lemonade"
+    },
+    {
+        "question": "Who is considered the founder of Western philosophy?",
+        "answer": "socrates"
+    },
+    {
+        "question": "What theory proposes that behavior is primarily learned through reward and punishment?",
+        "answer": "behaviorism"
+    },
+    {
+        "question": "Who played Michael Corleone in The Godfather trilogy?",
+        "answer": "pacino"
+    },
+    {
+        "question": "Who wrote Little Women?",
+        "answer": "alcott"
+    },
+    {
+        "question": "Which band has the album \"Houses of the Holy\"?",
+        "answer": "led zeppelin"
+    },
+    {
+        "question": "Which philosopher believed that happiness was the ultimate goal of life?",
+        "answer": "aristotle"
+    },
+    {
+        "question": "Who is known for the theory of multiple intelligences?",
+        "answer": "gardner"
+    },
+    {
+        "question": "What is the fifth element on the periodic table of elements?",
+        "answer": "boron"
+    },
+    {
+        "question": "What is the name of the Pharaoh who founded the 18th dynasty of Egypt?",
+        "answer": "ahmose"
+    },
+    {
+        "question": "What is the name of the longest river in Europe?",
+        "answer": "volga"
+    },
+    {
+        "question": "What is the hottest inhabited place in the world?",
+        "answer": "dallol"
+    },
+    {
+        "question": "What is the name of the largest moon of Saturn?",
+        "answer": "titan"
+    },
+    {
+        "question": "What is the largest waterfall in the world?",
+        "answer": "victoria falls"
+    },
+    {
+        "question": "What is the currency of Indonesia?",
+        "answer": "rupiah"
+    },
+    {
+        "question": "What is the largest snake in the world?",
+        "answer": "anaconda"
+    },
+    {
+        "question": "Who was the first man to step on the moon?",
+        "answer": "neil armstrong"
+    },
+    {
+        "question": "What is the smallest country in South America?",
+        "answer": "suriname"
+    },
+    {
+        "question": "What is the world's oldest known city?",
+        "answer": "jericho"
+    },
+    {
+        "question": "What is the scientific name for the common housefly?",
+        "answer": "musca"
+    },
+    {
+        "question": "What mineral is the Earth's main source of aluminum?",
+        "answer": "bauxite"
+    },
+    {
+        "question": "Who directed the 2001 movie \"A Beautiful Mind\"?",
+        "answer": "howard"
+    },
+    {
+        "question": "What is the name of the first dog to orbit the Earth?",
+        "answer": "laika"
+    },
+    {
+        "question": "What is the melting point of gold?",
+        "answer": 1064
+    },
+    {
+        "question": "What is the capital of Egypt?",
+        "answer": "cairo"
+    },
+    {
+        "question": "What is the name of the smallest bone in the human body?",
+        "answer": "stapes"
+    },
+    {
+        "question": "What is the largest freshwater lake in the world by volume?",
+        "answer": "baikal"
+    },
+    {
+        "question": "Which fictional detective is known for using \"little grey cells\"?",
+        "answer": "poirot"
+    },
+    {
+        "question": "What is the name of the protein that gives hair and nails their hardness?",
+        "answer": "keratin"
+    },
+    {
+        "question": "Who invented the rabies vaccine?",
+        "answer": "pasteur"
+    },
+    {
+        "question": "What is the smallest unit of measurement in the metric system?",
+        "answer": "millimeter"
+    },
+    {
+        "question": "What is the slowest animal in the world?",
+        "answer": "sloth"
+    },
+    {
+        "question": "What is the name of the part of the brain responsible for regulating sleep?",
+        "answer": "hypothalamus"
+    },
+    {
+        "question": "Who directed the movie \"The Shape of Water\"?",
+        "answer": "guillermo"
+    },
+    {
+        "question": "Which is the largest island in the world?",
+        "answer": "greenland"
+    },
+    {
+        "question": "What is the rarest blood type?",
+        "answer": "ab negative"
+    },
+    {
+        "question": "What is the name of the longest river in South America?",
+        "answer": "amazon"
+    },
+    {
+        "question": "What is the name of the process by which a gas turns into a liquid?",
+        "answer": "condensation"
+    },
+    {
+        "question": "What is the term for animals that only eat plants?",
+        "answer": "herbivores"
+    },
+    {
+        "question": "What is the method of production used to make a photo negative?",
+        "answer": "film development"
+    },
+    {
+        "question": "What is the name for a type of energy derived from the heat of the earth's core?",
+        "answer": "geothermal"
+    },
+    {
+        "question": "What is the largest species of deer?",
+        "answer": "moose"
+    },
+    {
+        "question": "What is the part of the body that connects the mouth to the stomach called?",
+        "answer": "esophagus"
+    },
+    {
+        "question": "What is the name of the fictional town in To Kill a Mockingbird?",
+        "answer": "maycomb"
+    },
+    {
+        "question": "Who proposed the heliocentric model of the universe?",
+        "answer": "copernicus"
+    },
+    {
+        "question": "Who is the main character in \"The Catcher in the Rye\"?",
+        "answer": "holden"
+    },
+    {
+        "question": "What is Hemingway's novel about the Spanish Civil War called?",
+        "answer": "for whom the bell tolls"
+    },
+    {
+        "question": "Who wrote the song Imagine?",
+        "answer": "lennon"
+    },
+    {
+        "question": "Who built the Taj Mahal?",
+        "answer": "shah jahan"
+    },
+    {
+        "question": "Who wrote Alice's Adventures in Wonderland?",
+        "answer": "carroll"
+    },
+    {
+        "question": "In what city is the headquarters of the United Nations located?",
+        "answer": "new york"
+    },
+    {
+        "question": "How many continents are there?",
+        "answer": "seven"
+    },
+    {
+        "question": "Who founded Facebook?",
+        "answer": "zuckerberg"
+    },
+    {
+        "question": "What is the capital of South Africa?",
+        "answer": "pretoria"
+    },
+    {
+        "question": "What is the term used to describe the study of plants?",
+        "answer": "botany"
+    },
+    {
+        "question": "What type of energy is stored in a battery?",
+        "answer": "chemical"
+    },
+    {
+        "question": "What sport is Michael Jordan famous for playing?",
+        "answer": "basketball"
+    },
+    {
+        "question": "What sport is Usain Bolt famous for?",
+        "answer": "sprinting"
+    },
+    {
+        "question": "What sport does Michael Phelps participate in?",
+        "answer": "swimming"
+    },
+    {
+        "question": "What sport is played at Wimbledon?",
+        "answer": "tennis"
+    },
+    {
+        "question": "Who directed the movie \"The Shawshank Redemption\"?",
+        "answer": "darabont"
+    },
+    {
+        "question": "What is the name of the ancient Egyptian writing system?",
+        "answer": "hieroglyphics"
+    },
+    {
+        "question": "Who played the role of Tony Stark in the Marvel Cinematic Universe?",
+        "answer": "downey jr"
+    },
+    {
+        "question": "What is the capital of Syria?",
+        "answer": "damascus"
+    },
+    {
+        "question": "Who led the Soviet Union during World War II?",
+        "answer": "stalin"
+    },
+    {
+        "question": "What is the name of the process by which an element gives off radiation?",
+        "answer": "radioactivity"
+    },
+    {
+        "question": "What is the capital city of Brazil?",
+        "answer": "braslia"
+    },
+    {
+        "question": "What was the name of the British ship that sank in 1912?",
+        "answer": "titanic"
+    },
+    {
+        "question": "What is the name of the famous painting by Vincent van Gogh that depicts a starry night?",
+        "answer": "starry night"
+    },
+    {
+        "question": "What is the name of the principle in physics that states that every action has an equal and opposite reaction?",
+        "answer": "newtons third law"
+    },
+    {
+        "question": "How many players are on a football team?",
+        "answer": "eleven"
+    },
+    {
+        "question": "Who won the Best Picture Oscar in 2020?",
+        "answer": "parasite"
+    },
+    {
+        "question": "What type of food is sushi?",
+        "answer": "japanese"
+    },
+    {
+        "question": "What character is known for his green clothing and pointy hat?",
+        "answer": "robin hood"
+    },
+    {
+        "question": "What instrument does Stevie Wonder mainly play?",
+        "answer": "piano"
+    },
+    {
+        "question": "What is the highest-grossing movie of all time?",
+        "answer": "avengers endgame"
+    },
+    {
+        "question": "What is the name for the philosophy that reality can only be known through a person's subjective experience?",
+        "answer": "phenomenology"
+    },
+    {
+        "question": "What is the name for a mental state where someone believes they are more important than others?",
+        "answer": "narcissism"
+    },
+    {
+        "question": "Who wrote Wealth of Nations?",
+        "answer": "adam smith"
+    },
+    {
+        "question": "What is the most populated country on Earth?",
+        "answer": "china"
+    },
+    {
+        "question": "What is the name of the fictional detective created by Sir Arthur Conan Doyle?",
+        "answer": "sherlock"
+    },
+    {
+        "question": "What is the capital city of Mexico?",
+        "answer": "mexico city"
+    },
+    {
+        "question": "What is the name of the deepest oceanic trench on Earth?",
+        "answer": "mariana trench"
+    },
+    {
+        "question": "What is the term for the study of the origin and history of words?",
+        "answer": "etymology"
+    },
+    {
+        "question": "What is the process by which living organisms (including humans) produce offspring?",
+        "answer": "reproduction"
+    },
+    {
+        "question": "What is the name of the famous bridge in San Francisco, California?",
+        "answer": "golden gate bridge"
+    },
+    {
+        "question": "Which is the largest animal on Earth?",
+        "answer": "blue whale"
+    },
+    {
+        "question": "Who discovered electricity?",
+        "answer": "franklin"
+    },
+    {
+        "question": "Who directed Interstellar?",
+        "answer": "christopher nolan"
+    },
+    {
+        "question": "What is the capital of China?",
+        "answer": "beijing"
+    },
+    {
+        "question": "What is the smallest island country in the world?",
+        "answer": "nauru"
+    },
+    {
+        "question": "Who composed the music for the film Gladiator?",
+        "answer": "hans zimmer"
+    },
+    {
+        "question": "Who wrote the novel Fahrenheit 451?",
+        "answer": "ray bradbury"
+    },
+    {
+        "question": "What is the name of the highest waterfall in the world?",
+        "answer": "angel falls"
+    },
+    {
+        "question": "Who directed the movie \"E.T.\"?",
+        "answer": "steven spielberg"
+    },
+    {
+        "question": "Who wrote the famous tragedy \"Hamlet\"?",
+        "answer": "shakespeare"
+    },
+    {
+        "question": "What is the smallest country in Europe?",
+        "answer": "vatican city"
+    },
+    {
+        "question": "What is the capital of India?",
+        "answer": "new delhi"
+    },
+    {
+        "question": "Which wood is used to make cricket bats?",
+        "answer": "willow"
+    },
+    {
+        "question": "What is the name of the smallest breed of dog?",
+        "answer": "chihuahua"
+    },
+    {
+        "question": "What is the tallest building in the world?",
+        "answer": "burj khalifa"
+    },
+    {
+        "question": "What is the name of the NASA rover that landed on Mars in 2021?",
+        "answer": "perseverance"
+    },
+    {
+        "question": "What is the name of the tube that connects the kidney to the bladder?",
+        "answer": "ureter"
+    },
+    {
+        "question": "Who is the author of The Adventures of Tom Sawyer?",
+        "answer": "mark twain"
+    },
+    {
+        "question": "What is the name of the island nation located in the Indian Ocean, famous for its lemurs?",
+        "answer": "madagascar"
+    },
+    {
+        "question": "Which element has the symbol W?",
+        "answer": "tungsten"
+    },
+    {
+        "question": "What is the name for a type of cloud that looks like a cotton ball?",
+        "answer": "cumulus"
+    },
+    {
+        "question": "What is the name of the port city on the Mediterranean Sea where Jesus was born?",
+        "answer": "bethlehem"
+    },
+    {
+        "question": "What is the name of the hormone that causes milk production in lactating women?",
+        "answer": "prolactin"
+    },
+    {
+        "question": "What is the name of the device used to measure earthquakes?",
+        "answer": "seismometer"
+    },
+    {
+        "question": "What is the capital of Bhutan?",
+        "answer": "thimphu"
+    },
+    {
+        "question": "Who wrote the novel \"The Grapes of Wrath\"?",
+        "answer": "steinbeck"
+    },
+    {
+        "question": "What is the largest US state by area?",
+        "answer": "alaska"
+    },
+    {
+        "question": "Who founded Microsoft?",
+        "answer": "gates"
+    },
+    {
+        "question": "What element is a diamond made of?",
+        "answer": "carbon"
+    },
+    {
+        "question": "Which city is considered the fashion capital of the world?",
+        "answer": "paris"
+    },
+    {
+        "question": "Which is the third primary color?",
+        "answer": "green"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "christopher columbus"
+    },
+    {
+        "question": "Which famous inventor is credited with creating the first practical telephone?",
+        "answer": "alexander graham bell"
+    },
+    {
+        "question": "What is the name of Shakespeare's most famous play?",
+        "answer": "hamlet"
+    },
+    {
+        "question": "What is the name of Harry Potter's owl?",
+        "answer": "hedwig"
+    },
+    {
+        "question": "What is the capital city of Germany?",
+        "answer": "berlin"
+    },
+    {
+        "question": "Who sang \"Imagine\"?",
+        "answer": "john lennon"
+    },
+    {
+        "question": "Who is considered the father of modern psychology?",
+        "answer": "sigmund freud"
+    },
+    {
+        "question": "What is the capital city of Kazakhstan?",
+        "answer": "astana"
+    },
+    {
+        "question": "What is the name of the longest river in Asia?",
+        "answer": "yangtze"
+    },
+    {
+        "question": "Who is known as the \"Father of Geometry\"?",
+        "answer": "euclid"
+    },
+    {
+        "question": "Which country won the most medals at the 2016 Summer Olympics?",
+        "answer": "united states"
+    },
+    {
+        "question": "What is the national language of Sri Lanka?",
+        "answer": "sinhala"
+    },
+    {
+        "question": "Who is the patron saint of music?",
+        "answer": "saint cecilia"
+    },
+    {
+        "question": "What is the name of the ballroom dance that originated in Cuba?",
+        "answer": "salsa"
+    },
+    {
+        "question": "What is the capital city of Somalia?",
+        "answer": "mogadishu"
+    },
+    {
+        "question": "What is the term used to describe a group of owls?",
+        "answer": "parliament"
+    },
+    {
+        "question": "What is the distance light travels in one year?",
+        "answer": "lightyear"
+    },
+    {
+        "question": "Which continent has the most countries?",
+        "answer": "africa"
+    },
+    {
+        "question": "Who is the author of the book \"The God of Small Things\"?",
+        "answer": "arundhati roy"
+    },
+    {
+        "question": "What is the term for a group of kangaroos?",
+        "answer": "troop"
+    },
+    {
+        "question": "Who directed the movie Titanic?",
+        "answer": "cameron"
+    },
+    {
+        "question": "Who played the character of Harry Potter in the movies?",
+        "answer": "radcliffe"
+    },
+    {
+        "question": "What is the highest point in the United States?",
+        "answer": "denali mt mckinley"
+    },
+    {
+        "question": "What is a carnivore?",
+        "answer": "meateater"
+    },
+    {
+        "question": "What is the capital of Angola?",
+        "answer": "luanda"
+    },
+    {
+        "question": "What is the hardest mineral on Earth?",
+        "answer": "diamond"
+    },
+    {
+        "question": "What is the capital of Sudan?",
+        "answer": "khartoum"
+    },
+    {
+        "question": "What is the name of the closest galaxy to the Milky Way?",
+        "answer": "andromeda"
+    },
+    {
+        "question": "What is the capital of Ecuador?",
+        "answer": "quito"
+    },
+    {
+        "question": "What is the name of the highest mountain in North America?",
+        "answer": "denali"
+    },
+    {
+        "question": "What is the capital of Suriname?",
+        "answer": "paramaribo"
+    },
+    {
+        "question": "Who is the protagonist in The Great Gatsby?",
+        "answer": "gatsby"
+    },
+    {
+        "question": "What is the name of the famous ancient Egyptian pharaoh?",
+        "answer": "tutankhamun"
+    },
+    {
+        "question": "In which country did the sport of judo originate?",
+        "answer": "japan"
+    },
+    {
+        "question": "What color is a ripe banana?",
+        "answer": "yellow"
+    },
+    {
+        "question": "Which enzyme breaks down proteins in the stomach?",
+        "answer": "pepsin"
+    },
+    {
+        "question": "What is the scientific name for the kneecap?",
+        "answer": "patella"
+    },
+    {
+        "question": "What is the unit of measurement for electric current?",
+        "answer": "ampere"
+    },
+    {
+        "question": "In what organ of the human body is insulin produced?",
+        "answer": "pancreas"
+    },
+    {
+        "question": "What is the name of the protein that gives hair and skin its color?",
+        "answer": "melanin"
+    },
+    {
+        "question": "Name the currency of Switzerland.",
+        "answer": "swiss franc"
+    },
+    {
+        "question": "What is the distance around a circle called?",
+        "answer": "circumference"
+    },
+    {
+        "question": "What is the smallest mountain range in the world?",
+        "answer": "sutter buttes"
+    },
+    {
+        "question": "What is the word for the fear of heights?",
+        "answer": "acrophobia"
+    },
+    {
+        "question": "What is the term for the study of reptiles and amphibians?",
+        "answer": "herpetology"
+    },
+    {
+        "question": "What is the term for the use of exaggeration for effect in writing or speech?",
+        "answer": "hyperbole"
+    },
+    {
+        "question": "What is the term for a word or phrase that is spelled the same but has a different meaning?",
+        "answer": "homonym"
+    },
+    {
+        "question": "What instrument does Lisa Simpson play on The Simpsons?",
+        "answer": "saxophone"
+    },
+    {
+        "question": "What is the distance of a marathon in kilometers?",
+        "answer": 42195
+    },
+    {
+        "question": "What fruit is the main ingredient in guacamole?",
+        "answer": "avocado"
+    },
+    {
+        "question": "Who was the leader of Nazi Germany during World War II?",
+        "answer": "adolf hitler"
+    },
+    {
+        "question": "Who was the first woman to receive a Nobel Prize?",
+        "answer": "marie curie"
+    },
+    {
+        "question": "Who was the first Roman Catholic to become Vice President of the United States?",
+        "answer": "joe biden"
+    },
+    {
+        "question": "What is the term used to describe the study of handwriting?",
+        "answer": "graphology"
+    },
+    {
+        "question": "Who wrote the Harry Potter series?",
+        "answer": "jk rowling"
+    },
+    {
+        "question": "Which animal is known as the \"ship of the desert\"?",
+        "answer": "camel"
+    },
+    {
+        "question": "Who played Neo in The Matrix trilogy?",
+        "answer": "keanu reeves"
+    },
+    {
+        "question": "Who is the lead singer of the band Radiohead?",
+        "answer": "thom yorke"
+    },
+    {
+        "question": "Who directed the movie Psycho?",
+        "answer": "hitchcock"
+    },
+    {
+        "question": "What is the title of Beyonc\u00e9's first solo album?",
+        "answer": "dangerously"
+    },
+    {
+        "question": "What is the meaning of life?",
+        "answer": "variable"
+    },
+    {
+        "question": "Which instrument does Yo-Yo Ma play?",
+        "answer": "cello"
+    },
+    {
+        "question": "Which African country was previously known as Abyssinia?",
+        "answer": "ethiopia"
+    },
+    {
+        "question": "What is the process of mixing oxygen with food to release energy called?",
+        "answer": "respiration"
+    },
+    {
+        "question": "What is the fourth state of matter after solid, liquid, and gas?",
+        "answer": "plasma"
+    },
+    {
+        "question": "What is the name of the substance produced by plants that gives them their green color?",
+        "answer": "chlorophyll"
+    },
+    {
+        "question": "What is the branch of medicine that deals with the diagnosis and treatment of diseases of the eye called?",
+        "answer": "ophthalmology"
+    },
+    {
+        "question": "What is the name of the psychological disorder characterized by extreme shyness?",
+        "answer": "social anxiety disorder"
+    },
+    {
+        "question": "What is the process of converting salt water into fresh water called?",
+        "answer": "desalination"
+    },
+    {
+        "question": "What is the name of the instrument used to measure wind speed?",
+        "answer": "anemometer"
+    },
+    {
+        "question": "What is the name for the hard, protective outer layer of a seed?",
+        "answer": "seed coat"
+    },
+    {
+        "question": "Which scientist developed the three laws of motion?",
+        "answer": "isaac newton"
+    },
+    {
+        "question": "What is the largest species of penguin?",
+        "answer": "emperor"
+    },
+    {
+        "question": "Who discovered the smallpox vaccine?",
+        "answer": "jenner"
+    },
+    {
+        "question": "What is the predominant religion in India?",
+        "answer": "hinduism"
+    },
+    {
+        "question": "What sport is Cristiano Ronaldo famous for playing?",
+        "answer": "football"
+    },
+    {
+        "question": "Who was the Greek goddess of wisdom?",
+        "answer": "athena"
+    },
+    {
+        "question": "What is the name of the hormone produced by the pancreas that helps regulate blood sugar?",
+        "answer": "insulin"
+    },
+    {
+        "question": "Who wrote \"The Communist Manifesto?\"",
+        "answer": "marx"
+    },
+    {
+        "question": "What is the formula for calculating the area of a rectangle?",
+        "answer": "length x width"
+    },
+    {
+        "question": "Who was the first woman to fly solo across the Atlantic?",
+        "answer": "amelia earhart"
+    },
+    {
+        "question": "What is the name of the technique used in psychology therapy that helps people change negative thought patterns?",
+        "answer": "cognitive behavioral therapy"
+    },
+    {
+        "question": "Who directed the movie \"Joker\"?",
+        "answer": "phillips"
+    },
+    {
+        "question": "What is the name of the smallest blood vessels in the body?",
+        "answer": "capillaries"
+    },
+    {
+        "question": "What is the capital of South Korea?",
+        "answer": "seoul"
+    },
+    {
+        "question": "Who directed the movie The Dark Knight?",
+        "answer": "nolan"
+    },
+    {
+        "question": "What is the plural form of the word \"goose\"?",
+        "answer": "geese"
+    },
+    {
+        "question": "What is another name for vitamin C?",
+        "answer": "ascorbic acid"
+    },
+    {
+        "question": "What is the name of the smallest bird in the world?",
+        "answer": "bee hummingbird"
+    },
+    {
+        "question": "What is the national animal of Australia?",
+        "answer": "kangaroo"
+    },
+    {
+        "question": "What is the capital of Uruguay?",
+        "answer": "montevideo"
+    },
+    {
+        "question": "What do you call a group of crows?",
+        "answer": "murder"
+    },
+    {
+        "question": "What is the traditional dress of Japan called?",
+        "answer": "kimono"
+    },
+    {
+        "question": "What is the capital of Mauritius?",
+        "answer": "port louis"
+    },
+    {
+        "question": "What is the chemical name for table salt?",
+        "answer": "sodium chloride"
+    },
+    {
+        "question": "What is the Japanese word for goodbye?",
+        "answer": "sayonara"
+    },
+    {
+        "question": "What is the diamond shaped area between the goalposts in football called?",
+        "answer": "crossbar"
+    },
+    {
+        "question": "What is the highest mountain in the Solar System?",
+        "answer": "olympus mons"
+    },
+    {
+        "question": "Which planet in our solar system is known for its rings?",
+        "answer": "saturn"
+    },
+    {
+        "question": "What is the name of the bird that is the icon of Twitter?",
+        "answer": "bluebird"
+    },
+    {
+        "question": "Who wrote the book \"The Grapes of Wrath\"?",
+        "answer": "john steinbeck"
+    },
+    {
+        "question": "What is the name of the sea between Australia and New Zealand?",
+        "answer": "tasman sea"
+    },
+    {
+        "question": "What is the capital of Bangladesh?",
+        "answer": "dhaka"
+    },
+    {
+        "question": "What is the name of the protagonist in the Harry Potter series?",
+        "answer": "harry"
+    },
+    {
+        "question": "What is the name of the princess in Sleeping Beauty?",
+        "answer": "aurora"
+    },
+    {
+        "question": "What is the name of the first man in Greek mythology?",
+        "answer": "prometheus"
+    },
+    {
+        "question": "What is the name of the process by which plants release water vapor?",
+        "answer": "transpiration"
+    },
+    {
+        "question": "What is the name of the city where Romeo and Juliet takes place?",
+        "answer": "verona"
+    },
+    {
+        "question": "What is the capital of Iran?",
+        "answer": "tehran"
+    },
+    {
+        "question": "Which Shakespeare play features the character Romeo?",
+        "answer": "romeo and juliet"
+    },
+    {
+        "question": "Who wrote the fantasy novel series \"A Song of Ice and Fire\"?",
+        "answer": "george r r martin"
+    },
+    {
+        "question": "Who was the protagonist of F. Scott Fitzgerald's \"The Great Gatsby\"?",
+        "answer": "jay gatsby"
+    },
+    {
+        "question": "Who is the Greek God of the Sea?",
+        "answer": "poseidon"
+    },
+    {
+        "question": "What is the name of the brightest star in the sky?",
+        "answer": "sirius"
+    },
+    {
+        "question": "What is the capital of Slovenia?",
+        "answer": "ljubljana"
+    },
+    {
+        "question": "What is the name of the biggest river in Australia?",
+        "answer": "murray"
+    },
+    {
+        "question": "What are the small, hair-like structures on the surface of cells that move in a wave-like manner to propel fluid and particles?",
+        "answer": "cilia"
+    },
+    {
+        "question": "What is the study of earth called?",
+        "answer": "geology"
+    },
+    {
+        "question": "What is the name of the theory that explains how continents drifted apart over millions of years?",
+        "answer": "plate tectonics"
+    },
+    {
+        "question": "What is the common name for the aurora borealis?",
+        "answer": "northern lights"
+    },
+    {
+        "question": "What is the name of the largest desert in South America?",
+        "answer": "atacama"
+    },
+    {
+        "question": "What is a person who studies insects called?",
+        "answer": "entomologist"
+    },
+    {
+        "question": "What is the unit of measurement for sound?",
+        "answer": "decibel"
+    },
+    {
+        "question": "What is the name of the Japanese art of paper folding?",
+        "answer": "origami"
+    },
+    {
+        "question": "In what sport does a player use a shuttlecock?",
+        "answer": "badminton"
+    },
+    {
+        "question": "What is the name of the landmark writing by Niccolo Machiavelli?",
+        "answer": "prince"
+    },
+    {
+        "question": "What is the meaning of life according to the philosopher Aristotle?",
+        "answer": "happiness"
+    },
+    {
+        "question": "What is the name of the first cloned sheep?",
+        "answer": "dolly"
+    },
+    {
+        "question": "What instrument did Louis Armstrong play?",
+        "answer": "trumpet"
+    },
+    {
+        "question": "What is the name of the dog in the Peanuts comic strip?",
+        "answer": "snoopy"
+    },
+    {
+        "question": "Who is the patron saint of animals?",
+        "answer": "francis"
+    },
+    {
+        "question": "What type of animal is a peregrine?",
+        "answer": "falcon"
+    },
+    {
+        "question": "What is the proper name for the heel bone?",
+        "answer": "calcaneus"
+    },
+    {
+        "question": "What is the highest mountain in Australia?",
+        "answer": "mount kosciuszko"
+    },
+    {
+        "question": "What is the term for a group of parrots?",
+        "answer": "flock"
+    },
+    {
+        "question": "What is the name of the famous clock tower in London?",
+        "answer": "big ben"
+    },
+    {
+        "question": "What is the state bird of California?",
+        "answer": "quail"
+    },
+    {
+        "question": "Who was the first U.S President to be impeached?",
+        "answer": "johnson"
+    },
+    {
+        "question": "What is the largest city in Canada?",
+        "answer": "toronto"
+    },
+    {
+        "question": "Who wrote \"The Wealth of Nations\"?",
+        "answer": "smith"
+    },
+    {
+        "question": "Who is the famous psychologist behind the concept of classical conditioning?",
+        "answer": "pavlov"
+    },
+    {
+        "question": "Which country is bordered by both the Atlantic and Indian Ocean?",
+        "answer": "south africa"
+    },
+    {
+        "question": "What African county is known as The Land of a Thousand Hills?",
+        "answer": "rwanda"
+    },
+    {
+        "question": "Who was the Roman Emperor when Mount Vesuvius erupted burying Pompeii?",
+        "answer": "titus"
+    },
+    {
+        "question": "Who played guitar on Michael Jackson's Beat It?",
+        "answer": "eddie"
+    },
+    {
+        "question": "Who is the King of Pop?",
+        "answer": "michael"
+    },
+    {
+        "question": "Who is the highest-selling female recording artist of all time?",
+        "answer": "madonna"
+    },
+    {
+        "question": "Who is the youngest artist to win Album of the Year at the Grammy Awards?",
+        "answer": "taylor"
+    },
+    {
+        "question": "What is the currency of Egypt?",
+        "answer": "pound"
+    },
+    {
+        "question": "What is the name of the famous sculpture by Michelangelo in the Sistine Chapel?",
+        "answer": "david"
+    },
+    {
+        "question": "What is the capital of Ethiopia?",
+        "answer": "addis ababa"
+    },
+    {
+        "question": "What was the name of the first satellite launched into space?",
+        "answer": "sputnik"
+    },
+    {
+        "question": "What is the name of the painting by Edvard Munch depicting a figure screaming?",
+        "answer": "the scream"
+    },
+    {
+        "question": "What is the name of the Canadian hockey team that has won the most Stanley Cup championships?",
+        "answer": "canadiens"
+    },
+    {
+        "question": "What is the term for a flock of geese in flight?",
+        "answer": "gaggle"
+    },
+    {
+        "question": "Which country is home to the world's tallest mountain?",
+        "answer": "nepal"
+    },
+    {
+        "question": "Who played Forrest Gump in the movie \"Forrest Gump\"?",
+        "answer": "tom hanks"
+    },
+    {
+        "question": "Who played the character of Tyler Durden in the movie \"Fight Club\"?",
+        "answer": "brad pitt"
+    },
+    {
+        "question": "What is the name of the famous museum in Paris with the glass pyramid entrance?",
+        "answer": "louvre"
+    },
+    {
+        "question": "Who created the song \"Thriller\"?",
+        "answer": "michael jackson"
+    },
+    {
+        "question": "What is the name of the law that states energy cannot be created or destroyed, only transferred or converted?",
+        "answer": "conservation"
+    },
+    {
+        "question": "What is the opposite of benevolent?",
+        "answer": "malevolent"
+    },
+    {
+        "question": "What is the seventh color of the visible spectrum?",
+        "answer": "violet"
+    },
+    {
+        "question": "What is the unit of measurement for energy?",
+        "answer": "joule"
+    },
+    {
+        "question": "Who painted the famous masterpiece \"The Scream\"?",
+        "answer": "munch"
+    },
+    {
+        "question": "Who is known as the \u201cFather of the Computer\u201d?",
+        "answer": "charles babbage"
+    },
+    {
+        "question": "What is the national dish of Italy?",
+        "answer": "pizza"
+    },
+    {
+        "question": "What is the device used to measure time called?",
+        "answer": "clock"
+    },
+    {
+        "question": "What is the highest grossing film of all time?",
+        "answer": "avatar"
+    },
+    {
+        "question": "Who painted the Sistine Chapel?",
+        "answer": "michelangelo"
+    },
+    {
+        "question": "What is the name of the famous monument in India that is a symbol of love?",
+        "answer": "taj mahal"
+    },
+    {
+        "question": "What is the name of the famous historical landmark in Paris, France?",
+        "answer": "eiffel tower"
+    },
+    {
+        "question": "Who won the Super Bowl in 2020?",
+        "answer": "chiefs"
+    },
+    {
+        "question": "What was the name of the first computer virus?",
+        "answer": "creeper"
+    },
+    {
+        "question": "What is the name of the first man to run a mile in under four minutes?",
+        "answer": "bannister"
+    },
+    {
+        "question": "What is the study of animals called?",
+        "answer": "zoology"
+    },
+    {
+        "question": "Who founded the religion of Islam?",
+        "answer": "muhammad"
+    },
+    {
+        "question": "What is the famous landmark located in New York City?",
+        "answer": "statue of liberty"
+    },
+    {
+        "question": "What is the only continent that exists entirely in the Southern Hemisphere?",
+        "answer": "antarctica"
+    },
+    {
+        "question": "Who was the first female Prime Minister of Great Britain?",
+        "answer": "thatcher"
+    },
+    {
+        "question": "What is the branch of zoology that deals with fish called?",
+        "answer": "ichthyology"
+    },
+    {
+        "question": "What is a jaguarundi?",
+        "answer": "a wildcat species"
+    },
+    {
+        "question": "What is the process called when liquid water turns into ice?",
+        "answer": "freezing"
+    },
+    {
+        "question": "What is the term used for an animal that only eats plants?",
+        "answer": "herbivore"
+    },
+    {
+        "question": "What is the name for the sensation of ringing in the ears?",
+        "answer": "tinnitus"
+    },
+    {
+        "question": "Who founded the philosophy of Taoism?",
+        "answer": "laozi"
+    },
+    {
+        "question": "Who was the lead singer of the band Queen?",
+        "answer": "freddie mercury"
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "answer": "100"
+    },
+    {
+        "question": "What is the study of the Earth's physical features called?",
+        "answer": "geography"
+    },
+    {
+        "question": "What is the capital of Belize?",
+        "answer": "belmopan"
+    },
+    {
+        "question": "What is another name for the condition commonly known as \"lazy eye\"?",
+        "answer": "amblyopia"
+    },
+    {
+        "question": "What is the name of the point in the night sky that lies directly above the observer?",
+        "answer": "zenith"
+    },
+    {
+        "question": "What is another name for the bodily process of burping?",
+        "answer": "eructation"
+    },
+    {
+        "question": "What is the term used to describe the texture of fabric that is shiny and smooth?",
+        "answer": "satin"
+    },
+    {
+        "question": "What is the name of the peninsula located in Southeast Europe?",
+        "answer": "balkan"
+    },
+    {
+        "question": "What is the name of the organ in which urine is stored?",
+        "answer": "bladder"
+    },
+    {
+        "question": "What is the term used to describe a molecule that has a mirror image of itself?",
+        "answer": "enantiomer"
+    },
+    {
+        "question": "What country is Istanbul in?",
+        "answer": "turkey"
+    },
+    {
+        "question": "What type of pastry is shaped like a crescent and contains almond paste?",
+        "answer": "croissant"
+    },
+    {
+        "question": "What is the national sport of Japan?",
+        "answer": "sumo wrestling"
+    },
+    {
+        "question": "What is the only Grand Slam tennis tournament played on grass?",
+        "answer": "wimbledon"
+    },
+    {
+        "question": "In which 1972 film did Marlon Brando say \"I'll make him an offer he can't refuse\"?",
+        "answer": "the godfather"
+    },
+    {
+        "question": "What is the name of Taylor Swift's 2019 album?",
+        "answer": "lover"
+    },
+    {
+        "question": "Who was the philosopher known for the concept of the \"social contract\"?",
+        "answer": "rousseau"
+    },
+    {
+        "question": "What is the study of unconscious mental processes?",
+        "answer": "psychoanalysis"
+    },
+    {
+        "question": "What is the name of the famous prison located in San Francisco Bay?",
+        "answer": "alcatraz"
+    },
+    {
+        "question": "What is the highest mountain in North America?",
+        "answer": "denalimount mckinley"
+    },
+    {
+        "question": "What is the birthplace of Wolfgang Amadeus Mozart?",
+        "answer": "salzburg"
+    },
+    {
+        "question": "What is the capital of Thailand?",
+        "answer": "bangkok"
+    },
+    {
+        "question": "Who wrote \"The Hitchhiker's Guide to the Galaxy\"?",
+        "answer": "douglas adams"
+    },
+    {
+        "question": "What is the term for an animal with a pouch for carrying its young?",
+        "answer": "marsupial"
+    },
+    {
+        "question": "Which country has the world's longest coastline?",
+        "answer": "canada"
+    },
+    {
+        "question": "Which musical term describes a piece of music played at the end of a concert?",
+        "answer": "encore"
+    },
+    {
+        "question": "Which scale is used to measure the strength of earthquakes?",
+        "answer": "richter"
+    },
+    {
+        "question": "Who is known as the Father of the Nation of India?",
+        "answer": "gandhi"
+    },
+    {
+        "question": "Who wrote \"The Picture of Dorian Gray\"?",
+        "answer": "wilde"
+    },
+    {
+        "question": "What does NASA stand for?",
+        "answer": "national aeronautics and space administration"
+    },
+    {
+        "question": "What is the capital of Finland?",
+        "answer": "helsinki"
+    },
+    {
+        "question": "What is the scientific name for the Northern Lights?",
+        "answer": "aurora borealis"
+    },
+    {
+        "question": "What novel written by Harper Lee won a Pulitzer Prize in 1961?",
+        "answer": "to kill a mockingbird"
+    },
+    {
+        "question": "What is the name for the phenomenon of remembering something as being better than it actually was?",
+        "answer": "rosy retrospection"
+    },
+    {
+        "question": "In what decade did the Beatles break up?",
+        "answer": "1970s"
+    },
+    {
+        "question": "What kind of vegetable is used to make sauerkraut?",
+        "answer": "cabbage"
+    },
+    {
+        "question": "What Quentin Tarantino movie features characters discussing tipping in restaurants?",
+        "answer": "reservoir dogs"
+    },
+    {
+        "question": "Which band wrote the song \"Bohemian Rhapsody\"?",
+        "answer": "queen"
+    },
+    {
+        "question": "Who was the Queen of England in 1950?",
+        "answer": "elizabeth"
+    },
+    {
+        "question": "What is the capital of Hungary?",
+        "answer": "budapest"
+    },
+    {
+        "question": "What is the branch of science that deals with the study of matter and energy?",
+        "answer": "physics"
+    },
+    {
+        "question": "What is the name of the capital city of Turkey?",
+        "answer": "ankara"
+    },
+    {
+        "question": "Who won the Best Actress Academy Award in 2020?",
+        "answer": "zellweger"
+    },
+    {
+        "question": "Who famously said, \"I have a dream\"?",
+        "answer": "martin luther king jr"
+    },
+    {
+        "question": "What is the name of the study of bird eggs?",
+        "answer": "oology"
+    },
+    {
+        "question": "Who wrote the novel \"Cat's Cradle\"?",
+        "answer": "kurt vonnegut"
+    },
+    {
+        "question": "What is the last element on the periodic table?",
+        "answer": "oganesson"
+    },
+    {
+        "question": "What is the term for a group of porcupines?",
+        "answer": "prickle"
+    },
+    {
+        "question": "Who painted the famous artwork \"The Persistence of Memory\"?",
+        "answer": "salvador dali"
+    },
+    {
+        "question": "Who coined the phrase \"survival of the fittest\"?",
+        "answer": "herbert spencer"
+    },
+    {
+        "question": "Who plays the character of Neo in the movie \"The Matrix\"?",
+        "answer": "keanu"
+    },
+    {
+        "question": "What is the name of the force that holds an atom's nucleus together?",
+        "answer": "strong"
+    },
+    {
+        "question": "Who is the philosopher who wrote \"The Analects\"?",
+        "answer": "confucius"
+    },
+    {
+        "question": "Who is the psychologist who developed the hierarchy of needs?",
+        "answer": "maslow"
+    },
+    {
+        "question": "What country has the most pyramids?",
+        "answer": "egypt"
+    },
+    {
+        "question": "What is the name of the Hogwarts headmaster in the Harry Potter series?",
+        "answer": "dumbledore"
+    },
+    {
+        "question": "What is the name of the technique used in karate to break boards?",
+        "answer": "gojuryu"
+    },
+    {
+        "question": "What is the philosophical study of knowledge called?",
+        "answer": "epistemology"
+    },
+    {
+        "question": "What is the traditional Italian dish made with Arborio rice?",
+        "answer": "risotto"
+    },
+    {
+        "question": "What is the name of the philosophy developed by Friedrich Nietzsche?",
+        "answer": "nihilism"
+    },
+    {
+        "question": "What is the phenomenon of light bending when it passes through a medium?",
+        "answer": "refraction"
+    },
+    {
+        "question": "What is the largest freshwater lake in Africa?",
+        "answer": "lake victoria"
+    },
+    {
+        "question": "What is the organic compound that gives chili peppers their heat called?",
+        "answer": "capsaicin"
+    },
+    {
+        "question": "What is the name of the largest moon of Uranus?",
+        "answer": "titania"
+    },
+    {
+        "question": "What is the narrow band of colors that can be seen when light is passed through a prism?",
+        "answer": "spectrum"
+    },
+    {
+        "question": "What is the name of the enzyme that breaks down starch?",
+        "answer": "amylase"
+    },
+    {
+        "question": "What is the name of the air-filled spaces in the bones of birds?",
+        "answer": "pneumatized"
+    },
+    {
+        "question": "What is the unit of measurement for frequency?",
+        "answer": "hertz"
+    },
+    {
+        "question": "What is the name of the largest artery in the human body?",
+        "answer": "aorta"
+    },
+    {
+        "question": "What is the term for the process of decay of an atomic nucleus?",
+        "answer": "radioactive"
+    },
+    {
+        "question": "What is the name of the small sacs in the lungs where gas exchange takes place?",
+        "answer": "alveoli"
+    },
+    {
+        "question": "What is the primary language spoken in Brazil?",
+        "answer": "portuguese"
+    },
+    {
+        "question": "What is the name of the famous painting located in the Sistine Chapel?",
+        "answer": "creation"
+    },
+    {
+        "question": "Who directed Pulp Fiction?",
+        "answer": "tarantino"
+    },
+    {
+        "question": "What is the study of the brain called?",
+        "answer": "neuroscience"
+    },
+    {
+        "question": "What is the term for a word that sounds the same as another word, but has a different meaning?",
+        "answer": "homophone"
+    },
+    {
+        "question": "What is the term for a word that is spelled the same way, but has a different meaning depending on its pronunciation?",
+        "answer": "homograph"
+    },
+    {
+        "question": "What is the name of the largest moon in our solar system?",
+        "answer": "ganymede"
+    },
+    {
+        "question": "What is the term for a group of fish?",
+        "answer": "school"
+    },
+    {
+        "question": "What is the capital city of Guinea-Bissau?",
+        "answer": "bissau"
+    },
+    {
+        "question": "What is the deepest point in the ocean?",
+        "answer": "challenger deep"
+    },
+    {
+        "question": "What is the name of the famous skull discovered in Tanzania in 1959?",
+        "answer": "zinjanthropus"
+    },
+    {
+        "question": "Who wrote \"Pride and Prejudice\"?",
+        "answer": "jane austen"
+    },
+    {
+        "question": "In which city was Vincent van Gogh born?",
+        "answer": "groot zundert"
+    },
+    {
+        "question": "What is the name given to the group of mammals that lay eggs?",
+        "answer": "monotreme"
+    },
+    {
+        "question": "Which ancient city is known as the City of David?",
+        "answer": "jerusalem"
+    },
+    {
+        "question": "Who composed the opera Carmen?",
+        "answer": "bizet"
+    },
+    {
+        "question": "Which video game character eats dots and avoids ghosts?",
+        "answer": "pacman"
+    },
+    {
+        "question": "Who wrote The Canterbury Tales?",
+        "answer": "chaucer"
+    },
+    {
+        "question": "Who wrote the novel \"One Hundred Years of Solitude\"?",
+        "answer": "garca mrquez"
+    },
+    {
+        "question": "What is the study of moths called?",
+        "answer": "lepidopterology"
+    },
+    {
+        "question": "What is the currency of Denmark?",
+        "answer": "kroner"
+    },
+    {
+        "question": "Which country is colloquially known as \"The Land of Fire and Ice\"?",
+        "answer": "iceland"
+    },
+    {
+        "question": "What type of instrument is a Stradivarius?",
+        "answer": "violin"
+    },
+    {
+        "question": "Who won the Academy Award for Best Actor in 2021?",
+        "answer": "hopkins"
+    },
+    {
+        "question": "What is the chemical formula for sulfuric acid?",
+        "answer": "h2so4"
+    },
+    {
+        "question": "What is the name of the sea that separates Africa and Europe?",
+        "answer": "mediterranean"
+    },
+    {
+        "question": "What kind of animal is specifically bred for its fleece?",
+        "answer": "sheep"
+    },
+    {
+        "question": "What is the medical specialty that focuses specifically on the heart?",
+        "answer": "cardiology"
+    },
+    {
+        "question": "What is the term used to describe the study of mushrooms and fungi?",
+        "answer": "mycology"
+    },
+    {
+        "question": "What is the term for the outermost layer of the Earth?",
+        "answer": "crust"
+    },
+    {
+        "question": "What is the name of the famous castle located in Germany?",
+        "answer": "neuschwanstein"
+    },
+    {
+        "question": "What is the capital city of Tajikistan?",
+        "answer": "dushanbe"
+    },
+    {
+        "question": "Who sings the hit song \"Shape of You\"?",
+        "answer": "ed sheeran"
+    },
+    {
+        "question": "Who is the actress behind the character of Hermione Granger?",
+        "answer": "emma watson"
+    },
+    {
+        "question": "What is the process of converting fatty acids into usable energy called?",
+        "answer": "betaoxidation"
+    },
+    {
+        "question": "What term describes the act of making a visual representation of an object or concept?",
+        "answer": "modeling"
+    },
+    {
+        "question": "What term describes the process of purifying a liquid by boiling it and condensing the vapor into a separate container?",
+        "answer": "distillation"
+    },
+    {
+        "question": "What is the scientific term for the fear of long words?",
+        "answer": "hippopotomonstrosesquippedaliophobia"
+    },
+    {
+        "question": "What term describes the process of softening or decomposing a material through the use of enzymes or chemicals?",
+        "answer": "hydrolysis"
+    },
+    {
+        "question": "What term describes the process of separating light into its different wavelengths?",
+        "answer": "diffraction"
+    },
+    {
+        "question": "What term describes the study of the physical and chemical properties of sound waves?",
+        "answer": "acoustics"
+    },
+    {
+        "question": "What term describes the capacity of a material to store an electrical charge?",
+        "answer": "capacitance"
+    },
+    {
+        "question": "What term describes the process of measuring the human body and its physical characteristics?",
+        "answer": "anthropometry"
+    },
+    {
+        "question": "Which color is created by mixing red and blue light?",
+        "answer": "magenta"
+    },
+    {
+        "question": "What term describes the process of converting sunlight into electricity?",
+        "answer": "photovoltaics"
+    },
+    {
+        "question": "What is the study of the Earth's climate and long-term weather patterns called?",
+        "answer": "climatology"
+    },
+    {
+        "question": "What term describes the process of using heat to transfer energy between two objects?",
+        "answer": "convection"
+    },
+    {
+        "question": "What is the term used to describe the chemical reaction that occurs when an acid and a base are combined?",
+        "answer": "neutralization"
+    },
+    {
+        "question": "Who was the first American president?",
+        "answer": "george washington"
+    },
+    {
+        "question": "What is the name of the neurotransmitter responsible for happiness and pleasure?",
+        "answer": "dopamine"
+    },
+    {
+        "question": "What is the currency of Sweden?",
+        "answer": "swedish krona"
+    },
+    {
+        "question": "What is the nickname given to the fastest man in the world?",
+        "answer": "lightning bolt"
+    },
+    {
+        "question": "What is the capital of Jamaica?",
+        "answer": "kingston"
+    },
+    {
+        "question": "What is the distance between the Earth and the Moon?",
+        "answer": "238900 miles"
+    },
+    {
+        "question": "What is the name of the device used for measuring blood pressure?",
+        "answer": "sphygmomanometer"
+    },
+    {
+        "question": "Which US state is known as the \"Grand Canyon State\"?",
+        "answer": "arizona"
+    },
+    {
+        "question": "Which city was the center of the Italian Renaissance?",
+        "answer": "florence"
+    },
+    {
+        "question": "What is the world's most expensive spice by weight?",
+        "answer": "saffron"
+    },
+    {
+        "question": "Who composed the opera \"The Magic Flute\"?",
+        "answer": "mozart"
+    },
+    {
+        "question": "Which city is known as the birthplace of Jazz?",
+        "answer": "new orleans"
+    },
+    {
+        "question": "Who wrote the song \"Purple Haze\"?",
+        "answer": "hendrix"
+    },
+    {
+        "question": "What corrosive, non-metallic element is also known as brimstone?",
+        "answer": "sulfur"
+    },
+    {
+        "question": "Which type of molecule is responsible for transforming light into vision in the eye?",
+        "answer": "rhodopsin"
+    },
+    {
+        "question": "Which type of animal is characterized by a bony armor shell and sharp claws?",
+        "answer": "armadillo"
+    },
+    {
+        "question": "What type of footwear is named after an animal known for its long, slimy body?",
+        "answer": "sandals"
+    },
+    {
+        "question": "What is the name for the vertical axis on a graph?",
+        "answer": "yaxis"
+    },
+    {
+        "question": "What is the name for the contact point between two meeting surfaces?",
+        "answer": "interface"
+    },
+    {
+        "question": "What is the term for the process of shaping behavior by reinforcing desired qualities?",
+        "answer": "operant conditioning"
+    },
+    {
+        "question": "What is the term for the force that acts on a moving object to bring it to rest?",
+        "answer": "friction"
+    },
+    {
+        "question": "What is the name of the brightest star in the constellation Orion?",
+        "answer": "betelgeuse"
+    },
+    {
+        "question": "What is the term for the process of measuring the depth of a body of water?",
+        "answer": "bathymetry"
+    },
+    {
+        "question": "What is the process of aging called?",
+        "answer": "senescence"
+    },
+    {
+        "question": "What is the name of the pigment responsible for red and orange colors in leaves?",
+        "answer": "carotenoids"
+    },
+    {
+        "question": "What is the process of predicting future events through supernatural means called?",
+        "answer": "divination"
+    },
+    {
+        "question": "What is the name of the phenomenon that causes the sky to appear blue?",
+        "answer": "rayleigh scattering"
+    },
+    {
+        "question": "What is the term for a person who is a specialist in wine?",
+        "answer": "sommelier"
+    },
+    {
+        "question": "What is the name of the chemical substance that gives urine its yellow color?",
+        "answer": "urochrome"
+    },
+    {
+        "question": "What movie won the Best Picture Oscar in 2021?",
+        "answer": "nomadland"
+    },
+    {
+        "question": "Who is known for the theory of behaviorism?",
+        "answer": "skinner"
+    },
+    {
+        "question": "Who wrote The Lord of the Rings?",
+        "answer": "tolkien"
+    },
+    {
+        "question": "What type of pastry is used to make Baklava?",
+        "answer": "phyllo"
+    },
+    {
+        "question": "What movie is known for the line, \"Here's looking at you, kid\"?",
+        "answer": "casablanca"
+    },
+    {
+        "question": "In which century did the French Revolution take place?",
+        "answer": "18th century"
+    },
+    {
+        "question": "What is the last word in \"The Great Gatsby\"?",
+        "answer": "alone"
+    },
+    {
+        "question": "What is the fear of small spaces called?",
+        "answer": "claustrophobia"
+    },
+    {
+        "question": "What is the study of viruses called?",
+        "answer": "virology"
+    },
+    {
+        "question": "What is the practice of creating artificial waterways called?",
+        "answer": "canalization"
+    },
+    {
+        "question": "What is the term for fear of long words?",
+        "answer": "hippopotomonstrosesquipedaliophobia"
+    },
+    {
+        "question": "What is the fruit of the cacao tree called?",
+        "answer": "cocoa"
+    },
+    {
+        "question": "What is the study of weather called?",
+        "answer": "meteorology"
+    },
+    {
+        "question": "Which country is home to the tallest waterfall in the world?",
+        "answer": "venezuela"
+    },
+    {
+        "question": "What is the capital of Croatia?",
+        "answer": "zagreb"
+    },
+    {
+        "question": "What is the scientific term for the fear of spiders?",
+        "answer": "arachnophobia"
+    },
+    {
+        "question": "What is the smallest mammal in the world?",
+        "answer": "bumblebee bat"
+    },
+    {
+        "question": "Which famous landmark can be found in Rio de Janeiro?",
+        "answer": "christ the redeemer statue"
+    },
+    {
+        "question": "What is the capital of Libya?",
+        "answer": "tripoli"
+    },
+    {
+        "question": "What is the famous river that flows through the Grand Canyon?",
+        "answer": "colorado"
+    },
+    {
+        "question": "What is the process of converting glucose into energy called?",
+        "answer": "cellular respiration"
+    },
+    {
+        "question": "What is the medical term for a nosebleed?",
+        "answer": "epistaxis"
+    },
+    {
+        "question": "Which color is a mixture of yellow and green?",
+        "answer": "chartreuse"
+    },
+    {
+        "question": "What is the medical term for the \"funny bone\"?",
+        "answer": "ulnar nerve"
+    },
+    {
+        "question": "What are the three primary colors?",
+        "answer": "red yellow and blue"
+    },
+    {
+        "question": "What movie features a young lion cub named Simba?",
+        "answer": "the lion king"
+    },
+    {
+        "question": "What type of seafood is often grilled or boiled and served with butter or lemon?",
+        "answer": "lobster"
+    },
+    {
+        "question": "What rapper's real name is Marshall Bruce Mathers III?",
+        "answer": "eminem"
+    },
+    {
+        "question": "What is the term for a mental disorder characterized by alternating periods of mania and depression?",
+        "answer": "bipolar disorder"
+    },
+    {
+        "question": "What is the name of the continent that is home to both Australia and New Zealand?",
+        "answer": "oceania"
+    },
+    {
+        "question": "What movie features Tom Hanks stranded on a deserted island?",
+        "answer": "cast away"
+    },
+    {
+        "question": "What type of pasta means \"little worms\" in Italian?",
+        "answer": "vermicelli"
+    },
+    {
+        "question": "What is the capital of Zambia?",
+        "answer": "lusaka"
+    },
+    {
+        "question": "Who wrote the novella \"The Old Man and the Sea\"?",
+        "answer": "hemingway"
+    },
+    {
+        "question": "What word means the resistance of a fluid to flow?",
+        "answer": "viscosity"
+    },
+    {
+        "question": "What was the name of the Greek goddess of love?",
+        "answer": "aphrodite"
+    },
+    {
+        "question": "What is the largest island in the Mediterranean Sea?",
+        "answer": "sicily"
+    },
+    {
+        "question": "Who wrote the book \"The Cat in the Hat\"?",
+        "answer": "seuss"
+    },
+    {
+        "question": "What is the term for the study of the principles of beauty and artistic taste?",
+        "answer": "aesthetics"
+    },
+    {
+        "question": "What type of animal is Nemo from Finding Nemo?",
+        "answer": "clownfish"
+    },
+    {
+        "question": "Which mountain range runs through Spain?",
+        "answer": "pyrenees"
+    },
+    {
+        "question": "What is the world's longest river?",
+        "answer": "the nile"
+    },
+    {
+        "question": "Who won the first Super Bowl?",
+        "answer": "green bay packers"
+    },
+    {
+        "question": "What is the most watched sport in the world?",
+        "answer": "soccer"
+    },
+    {
+        "question": "What is the rarest blood type in humans?",
+        "answer": "abnegative"
+    },
+    {
+        "question": "Which musical instrument did Jimi Hendrix play?",
+        "answer": "guitar"
+    },
+    {
+        "question": "What pop star's real name is Stefani Germanotta?",
+        "answer": "lady gaga"
+    },
+    {
+        "question": "Who wrote the opera \"The Magic Flute\"?",
+        "answer": "wolfgang amadeus mozart"
+    },
+    {
+        "question": "Which psychologist's theories were the basis for the behaviorist movement?",
+        "answer": "skinner"
+    },
+    {
+        "question": "What is the term for the unconscious part of the psyche?",
+        "answer": "the id"
+    },
+    {
+        "question": "What is the psychological term for fear of flying?",
+        "answer": "aerophobia"
+    },
+    {
+        "question": "What is the name of the famous painting by Leonardo da Vinci that features a woman with a mysterious smile?",
+        "answer": "mona lisa"
+    },
+    {
+        "question": "What is the name of the American civil rights activist who refused to give up her seat on a bus in Montgomery, Alabama?",
+        "answer": "parks"
+    },
+    {
+        "question": "What is the title of Friedrich Nietzsche's philosophical work that argues \"God is dead\"?",
+        "answer": "zarathustra"
+    },
+    {
+        "question": "What is the name of the US national anthem?",
+        "answer": "star spangled banner"
+    },
+    {
+        "question": "What is the name of the largest waterfall in the world?",
+        "answer": "victoria"
+    },
+    {
+        "question": "What is the name of the first computer programmer?",
+        "answer": "lovelace"
+    },
+    {
+        "question": "What is the name of the famous song by John Lennon?",
+        "answer": "imagine"
+    },
+    {
+        "question": "Who wrote Don Quixote?",
+        "answer": "cervantes"
+    },
+    {
+        "question": "What is the capital of Portugal?",
+        "answer": "lisbon"
+    },
+    {
+        "question": "Who was the first person to reach the South Pole?",
+        "answer": "amundsen"
+    },
+    {
+        "question": "What is the name of the famous Roman amphitheater located in Rome, Italy?",
+        "answer": "colosseum"
+    },
+    {
+        "question": "What is the name of the publication that features the world's top 500 companies?",
+        "answer": "fortune"
+    },
+    {
+        "question": "What spice is used to make the dish curry?",
+        "answer": "turmeric"
+    },
+    {
+        "question": "Who wrote Meditations?",
+        "answer": "marcus aurelius"
+    },
+    {
+        "question": "What country hosted the 2018 Winter Olympics?",
+        "answer": "south korea"
+    },
+    {
+        "question": "What famous novel is set during the Russian Revolution?",
+        "answer": "animal farm"
+    },
+    {
+        "question": "What famous jazz musician was known as the \"King of Swing\"?",
+        "answer": "benny goodman"
+    },
+    {
+        "question": "What is the capital city of Estonia?",
+        "answer": "tallinn"
+    },
+    {
+        "question": "What is the fastest bird in the world?",
+        "answer": "peregrine falcon"
+    },
+    {
+        "question": "What is the largest tree in the world by volume?",
+        "answer": "general sherman"
+    },
+    {
+        "question": "What is the capital city of Morocco?",
+        "answer": "rabat"
+    },
+    {
+        "question": "What Greek epic poem tells the story of the Trojan War?",
+        "answer": "iliad"
+    },
+    {
+        "question": "What is the award given to the best film at the Oscars?",
+        "answer": "best picture"
+    },
+    {
+        "question": "Who created the character Sherlock Holmes?",
+        "answer": "doyle"
+    },
+    {
+        "question": "What does the acronym HTML stand for?",
+        "answer": "hypertext markup language"
+    },
+    {
+        "question": "What is the nickname of the professional basketball team in Chicago?",
+        "answer": "bulls"
+    },
+    {
+        "question": "What is the heaviest naturally occurring element?",
+        "answer": "uranium"
+    },
+    {
+        "question": "Who is the main antagonist in The Lord of the Rings?",
+        "answer": "sauron"
+    },
+    {
+        "question": "What is the name of the technique for creating images using light on a chemically treated surface?",
+        "answer": "photography"
+    },
+    {
+        "question": "What is the name of the fifth book in the Bible?",
+        "answer": "deuteronomy"
+    },
+    {
+        "question": "What is the medical term for a brain freeze?",
+        "answer": "sphenopalatine ganglioneuralgia"
+    },
+    {
+        "question": "Who starred as the first James Bond in the movie \"Dr. No\"?",
+        "answer": "sean connery"
+    },
+    {
+        "question": "Who played the lead role in the movie Titanic?",
+        "answer": "dicaprio"
+    },
+    {
+        "question": "Who composed the music for the movie The Lion King?",
+        "answer": "zimmer"
+    },
+    {
+        "question": "Who won the Nobel Prize in Literature in 2020?",
+        "answer": "louise gluck"
+    },
+    {
+        "question": "Who is the current Prime Minister of Japan?",
+        "answer": "yoshihide suga"
+    },
+    {
+        "question": "Who won the Best Actress Oscar in 2020?",
+        "answer": "renee zellweger"
+    },
+    {
+        "question": "Who won the Men's Singles title at Wimbledon in 2019?",
+        "answer": "novak djokovic"
+    },
+    {
+        "question": "Who designed the Eiffel Tower?",
+        "answer": "gustave eiffel"
+    },
+    {
+        "question": "What are the four natural forces of the universe?",
+        "answer": "gravity electromagnetic strong nuclear weak nuclear"
+    },
+    {
+        "question": "What is the name of the chemical element with the symbol Na?",
+        "answer": "sodium"
+    },
+    {
+        "question": "What is the capital of Kenya?",
+        "answer": "nairobi"
+    },
+    {
+        "question": "What mountain range is found in Russia?",
+        "answer": "ural mountains"
+    },
+    {
+        "question": "What type of bird is a tui?",
+        "answer": "honeyeater"
+    },
+    {
+        "question": "What is the name of the substance that gives a red coloration to the skin after being slapped or hit?",
+        "answer": "erythema"
+    },
+    {
+        "question": "What is the name for the study of ancient inscriptions?",
+        "answer": "epigraphy"
+    },
+    {
+        "question": "What is the group of aardvarks called?",
+        "answer": "aarmory"
+    },
+    {
+        "question": "What is the masculine version of the name Sophia?",
+        "answer": "sophos"
+    },
+    {
+        "question": "Who was the first woman to win an Academy Award for Best Director?",
+        "answer": "kathryn"
+    },
+    {
+        "question": "What is the capital of Bulgaria?",
+        "answer": "sofia"
+    },
+    {
+        "question": "Who played \"The Queen\" in the 2006 film of the same name?",
+        "answer": "mirren"
+    },
+    {
+        "question": "Who was the first person to win three Academy Awards in a single year?",
+        "answer": "streisand"
+    },
+    {
+        "question": "What is the scuba diving term for the condition that occurs when a diver ascends too quickly and nitrogen bubbles form in the bloodstream?",
+        "answer": "decompression sickness"
+    },
+    {
+        "question": "What is the national fruit of Bangladesh?",
+        "answer": "jackfruit"
+    },
+    {
+        "question": "What is the process of splitting an atom called?",
+        "answer": "fission"
+    },
+    {
+        "question": "What is the name of the tower that holds Big Ben?",
+        "answer": "elizabeth tower"
+    },
+    {
+        "question": "Which creature has the longest lifespan?",
+        "answer": "ocean quahog clam"
+    },
+    {
+        "question": "What is the name of the band that originated the album \"The Wall\"?",
+        "answer": "pink floyd"
+    },
+    {
+        "question": "What is the name of the spacecraft that made the first successful landing on Mars?",
+        "answer": "viking 1"
+    },
+    {
+        "question": "What did the philosopher, Socrates, famously say about wisdom?",
+        "answer": "i know that i am intelligent because i know that i know nothing"
+    },
+    {
+        "question": "What is the largest country in Africa by area?",
+        "answer": "algeria"
+    },
+    {
+        "question": "Who starred as Luke Skywalker in the Star Wars series?",
+        "answer": "hamill"
+    },
+    {
+        "question": "Who is the lead singer of the band Nirvana?",
+        "answer": "cobain"
+    },
+    {
+        "question": "What is the capital city of Lithuania?",
+        "answer": "vilnius"
+    },
+    {
+        "question": "What is the capital city of Barbados?",
+        "answer": "bridgetown"
+    },
+    {
+        "question": "Which sea lies directly to the east of the United States of America?",
+        "answer": "atlantic"
+    },
+    {
+        "question": "Which country consumes the most chocolate per capita?",
+        "answer": "switzerland"
+    },
+    {
+        "question": "What is the name of the first man to orbit Earth?",
+        "answer": "yuri gagarin"
+    },
+    {
+        "question": "What is the French word for \"please\"?",
+        "answer": "sil vous plat"
+    },
+    {
+        "question": "What is the name of a five-sided shape?",
+        "answer": "pentagon"
+    },
+    {
+        "question": "Who wrote \"The Odyssey\"?",
+        "answer": "homer"
+    },
+    {
+        "question": "Who wrote \"Crime and Punishment\"?",
+        "answer": "dostoevsky"
+    },
+    {
+        "question": "What color is the gemstone associated with the month of June?",
+        "answer": "pearl"
+    },
+    {
+        "question": "What is the name of the chemical element with the atomic number 4?",
+        "answer": "beryllium"
+    },
+    {
+        "question": "What caused the extinction of the dinosaurs?",
+        "answer": "asteroid"
+    },
+    {
+        "question": "What does the abbreviation \"UNESCO\" stand for?",
+        "answer": "united nations educational scientific and cultural organization"
+    },
+    {
+        "question": "What type of flower is the symbol of the Netherlands?",
+        "answer": "tulip"
+    },
+    {
+        "question": "What meat is used in a traditional BLT sandwich?",
+        "answer": "bacon"
+    },
+    {
+        "question": "What type of food is hummus?",
+        "answer": "middle eastern"
+    },
+    {
+        "question": "What nut is traditionally paired with chocolate in Nutella spread?",
+        "answer": "hazelnut"
+    },
+    {
+        "question": "Who is credited with discovering the structure of DNA?",
+        "answer": "watson"
+    },
+    {
+        "question": "What type of animal is an octopus?",
+        "answer": "mollusk"
+    },
+    {
+        "question": "What sport is featured in the World Series?",
+        "answer": "baseball"
+    },
+    {
+        "question": "What is the name of the famous horse race that takes place annually in Kentucky?",
+        "answer": "derby"
+    },
+    {
+        "question": "What gas is responsible for making soda fizzy?",
+        "answer": "carbon dioxide"
+    },
+    {
+        "question": "Who invented dynamite?",
+        "answer": "nobel"
+    },
+    {
+        "question": "What kind of animal is a hammerhead?",
+        "answer": "shark"
+    },
+    {
+        "question": "Who was the first human in space?",
+        "answer": "gagarin"
+    },
+    {
+        "question": "What is the term for the loss of memory of the events immediately preceding a trauma or injury?",
+        "answer": "retrograde amnesia"
+    },
+    {
+        "question": "What does the acronym RADAR stand for?",
+        "answer": "radio detection and ranging"
+    },
+    {
+        "question": "Who was the Roman goddess of agriculture?",
+        "answer": "ceres"
+    },
+    {
+        "question": "What is the lightest natural gas?",
+        "answer": "methane"
+    },
+    {
+        "question": "Who wrote the novel \"The Picture of Dorian Gray\"?",
+        "answer": "oscar wilde"
+    },
+    {
+        "question": "What is the birthplace of Leonardo da Vinci?",
+        "answer": "vinci"
+    },
+    {
+        "question": "What is the driest place on earth?",
+        "answer": "atacama desert"
+    },
+    {
+        "question": "What is the oldest university in the world?",
+        "answer": "university of bologna"
+    },
+    {
+        "question": "Who directed the film \"The Shining\"?",
+        "answer": "stanley kubrick"
+    },
+    {
+        "question": "Who is the current Chancellor of Germany?",
+        "answer": "angela merkel"
+    },
+    {
+        "question": "What is the name of the group of stars that form the plough or big dipper?",
+        "answer": "ursa major"
+    },
+    {
+        "question": "What is the smallest animal in the world?",
+        "answer": "etruscan shrew"
+    },
+    {
+        "question": "What is the name of the theory proposed by Charles Darwin?",
+        "answer": "evolution"
+    },
+    {
+        "question": "What is the name of the biggest island in Japan?",
+        "answer": "honshu"
+    },
+    {
+        "question": "Which car company has the 2019 model called \"Crosstrek\"?",
+        "answer": "subaru"
+    },
+    {
+        "question": "Who starred in the movie \"The Big Lebowski\"?",
+        "answer": "bridges"
+    },
+    {
+        "question": "What is the name of the largest lake in South America?",
+        "answer": "maracaibo"
+    },
+    {
+        "question": "What is the last name of American presidents John and John Quincy?",
+        "answer": "adams"
+    },
+    {
+        "question": "Who invented the first electric battery?",
+        "answer": "volta"
+    },
+    {
+        "question": "What term describes the inability to distinguish between colors?",
+        "answer": "color blindness"
+    },
+    {
+        "question": "What gas is needed for respiration?",
+        "answer": "oxygen"
+    },
+    {
+        "question": "Who directed the movie Avatar?",
+        "answer": "james cameron"
+    },
+    {
+        "question": "Who is the best-selling music artist of all time?",
+        "answer": "the beatles"
+    },
+    {
+        "question": "Which animal is the largest primate in the world?",
+        "answer": "gorilla"
+    },
+    {
+        "question": "What is the name of the US National Anthem?",
+        "answer": "the starspangled banner"
+    },
+    {
+        "question": "What is the name of the highest court in the United States?",
+        "answer": "supreme court"
+    },
+    {
+        "question": "What is the title of the first Harry Potter book?",
+        "answer": "philosophers stone"
+    },
+    {
+        "question": "What is the name of the philosophy that emphasizes maximizing pleasure and minimizing pain?",
+        "answer": "hedonism"
+    },
+    {
+        "question": "What is the opposite of add?",
+        "answer": "subtract"
+    },
+    {
+        "question": "What is the capital city of Nepal?",
+        "answer": "kathmandu"
+    },
+    {
+        "question": "What is the largest lizard in the world?",
+        "answer": "komodo"
+    },
+    {
+        "question": "What is the name of the line that divides the Earth into east and west?",
+        "answer": "prime meridian"
+    },
+    {
+        "question": "What is the process of decay called?",
+        "answer": "decomposition"
+    },
+    {
+        "question": "Which novel is about a pig named Wilbur and his friendship with a spider named Charlotte?",
+        "answer": "charlottes web"
+    },
+    {
+        "question": "What type of energy is used in nuclear power plants?",
+        "answer": "nuclear energy"
+    },
+    {
+        "question": "Who is the singer of the song \"Rolling in the Deep\"?",
+        "answer": "adele"
+    },
+    {
+        "question": "Who played the main character in The Godfather?",
+        "answer": "marlon brando"
+    },
+    {
+        "question": "What is Adele's last name?",
+        "answer": "adkins"
+    },
+    {
+        "question": "Who is credited with saying \"I think, therefore I am\"?",
+        "answer": "ren descartes"
+    },
+    {
+        "question": "What disorder is characterized by a split personality?",
+        "answer": "dissociative identity disorder"
+    },
+    {
+        "question": "What is the heaviest metal?",
+        "answer": "osmium"
+    },
+    {
+        "question": "What is the unit of pressure in the metric system?",
+        "answer": "pascal"
+    },
+    {
+        "question": "What is the name of the Earth's innermost layer?",
+        "answer": "inner core"
+    },
+    {
+        "question": "What is the name of the second Harry Potter book?",
+        "answer": "chamber of secrets"
+    },
+    {
+        "question": "What is the name of the street in London where the British Prime Minister lives?",
+        "answer": "downing street"
+    },
+    {
+        "question": "What is the capital of the United States?",
+        "answer": "washington dc"
+    },
+    {
+        "question": "What animal is the largest living land mammal?",
+        "answer": "elephant"
+    },
+    {
+        "question": "What is Shakespeare's shortest play?",
+        "answer": "errors"
+    },
+    {
+        "question": "What is the name of the main character in the movie \"The Fugitive\"?",
+        "answer": "richard"
+    },
+    {
+        "question": "What type of food is a Granny Smith?",
+        "answer": "apple"
+    },
+    {
+        "question": "What is the name of the phenomenon where the presence of others makes people perform worse?",
+        "answer": "loafing"
+    },
+    {
+        "question": "What is the name of the psychological test where people are asked to interpret inkblots?",
+        "answer": "rorschach"
+    },
+    {
+        "question": "What is the name of the Beatles' lead guitarist?",
+        "answer": "george"
+    },
+    {
+        "question": "What country is known for the fjords?",
+        "answer": "norway"
+    },
+    {
+        "question": "What is the name of the world's largest sand island?",
+        "answer": "fraser"
+    },
+    {
+        "question": "Which city is famous for hosting the annual \"Running of the Bulls\" festival?",
+        "answer": "pamplona"
+    },
+    {
+        "question": "What is the name of the Australian airline founded in 1920?",
+        "answer": "qantas"
+    },
+    {
+        "question": "Who has won the most Grand Slam titles in men's tennis?",
+        "answer": "federer"
+    },
+    {
+        "question": "Who was the last emperor of Russia?",
+        "answer": "nicholas ii"
+    },
+    {
+        "question": "What is the national dish of Spain?",
+        "answer": "paella"
+    },
+    {
+        "question": "Which fruit is known as the \"king of fruits\" in South Asia?",
+        "answer": "mango"
+    },
+    {
+        "question": "Who won the Nobel Prize in Literature in 2016?",
+        "answer": "dylan"
+    },
+    {
+        "question": "Who is the author of \"Beyond Good and Evil\"?",
+        "answer": "nietzsche"
+    },
+    {
+        "question": "What is the name of the model that explains the stages of grief?",
+        "answer": "kublerross"
+    },
+    {
+        "question": "Who wrote the poem \"The Road Not Taken\"?",
+        "answer": "frost"
+    },
+    {
+        "question": "What is the best-selling book series of all time?",
+        "answer": "harry potter"
+    },
+    {
+        "question": "What is the most spoken language in India?",
+        "answer": "hindi"
+    },
+    {
+        "question": "Who is the Greek god of wine?",
+        "answer": "dionysus"
+    },
+    {
+        "question": "What is the currency of Canada?",
+        "answer": "dollar"
+    },
+    {
+        "question": "What is the philosophical concept that describes the way of life derived from the teachings of Buddha?",
+        "answer": "buddhism"
+    },
+    {
+        "question": "What is the capital city of Liechtenstein?",
+        "answer": "vaduz"
+    },
+    {
+        "question": "What is the smallest country in Africa by landmass?",
+        "answer": "seychelles"
+    },
+    {
+        "question": "What is the name of the largest living reptile species?",
+        "answer": "saltwater crocodile"
+    },
+    {
+        "question": "What is the name of the condition where a person is unable to feel pain?",
+        "answer": "congenital insensitivity"
+    },
+    {
+        "question": "What is the term for the loss of memory due to brain injury or disease?",
+        "answer": "amnesia"
+    },
+    {
+        "question": "What is the name of the person who conducts an orchestra?",
+        "answer": "conductor"
+    },
+    {
+        "question": "What is the term used for the endpoint of a chromosome that shortens with age and is associated with aging and disease?",
+        "answer": "telomere"
+    },
+    {
+        "question": "What is the name of the opposite of a magnet's north pole?",
+        "answer": "south"
+    },
+    {
+        "question": "What is the name of the tendon that connects the calf muscle to the heel bone?",
+        "answer": "achilles"
+    },
+    {
+        "question": "What is the capital city of Greece?",
+        "answer": "athens"
+    },
+    {
+        "question": "What is the name of the line of latitude that is at 0 degrees?",
+        "answer": "equator"
+    },
+    {
+        "question": "In which country is the ancient city of Petra located?",
+        "answer": "jordan"
+    },
+    {
+        "question": "Which continent is Brazil located in?",
+        "answer": "south america"
+    },
+    {
+        "question": "In what country were the first modern Olympic Games held?",
+        "answer": "greece"
+    },
+    {
+        "question": "What is the smallest particle in the universe?",
+        "answer": "quark"
+    },
+    {
+        "question": "In \"To Kill a Mockingbird\", who is the protagonist?",
+        "answer": "scout"
+    },
+    {
+        "question": "What was the main work of French philosopher Ren\u00e9 Descartes?",
+        "answer": "meditations"
+    },
+    {
+        "question": "What term is used to describe a personality that is characterized by introversion?",
+        "answer": "type b"
+    },
+    {
+        "question": "What word means \"to make amends or reparation for wrongdoing\"?",
+        "answer": "atonement"
+    },
+    {
+        "question": "What is the process of changing a liquid into a solid called?",
+        "answer": "solidification"
+    },
+    {
+        "question": "What is the study of the structure and function of cells called?",
+        "answer": "cytology"
+    },
+    {
+        "question": "Which disease is caused by a deficiency of Vitamin C?",
+        "answer": "scurvy"
+    },
+    {
+        "question": "What is the branch of biology that deals with the structure and function of tissues called?",
+        "answer": "histology"
+    },
+    {
+        "question": "Which colorful bird is known for its impressive courtship dance?",
+        "answer": "peacock"
+    },
+    {
+        "question": "What is the method of visual communication using symbols and signs called?",
+        "answer": "semiotics"
+    },
+    {
+        "question": "What is the name of the planet that is eighth from the Sun?",
+        "answer": "neptune"
+    },
+    {
+        "question": "What is the opposite of \"heavy\"?",
+        "answer": "light"
+    },
+    {
+        "question": "What is the name of the world's largest coral reef system?",
+        "answer": "great barrier reef"
+    },
+    {
+        "question": "What is the name of the planet that Superman is from?",
+        "answer": "krypton"
+    },
+    {
+        "question": "What is the last book in the Bible?",
+        "answer": "revelation"
+    },
+    {
+        "question": "What is the name for the group of stars that form a picture or shape?",
+        "answer": "constellation"
+    },
+    {
+        "question": "What is the first letter of the Greek alphabet?",
+        "answer": "alpha"
+    },
+    {
+        "question": "Who is the author of The Hunger Games series?",
+        "answer": "collins"
+    },
+    {
+        "question": "What is the name of the famous American fast food chain known for burgers and fries?",
+        "answer": "mcdonalds"
+    },
+    {
+        "question": "What is the highest achieving team in English football history?",
+        "answer": "manchester united"
+    },
+    {
+        "question": "What is the name of the two largest planets in our solar system?",
+        "answer": "jupiter and saturn"
+    },
+    {
+        "question": "What is the most populous city in the United States?",
+        "answer": "new york city"
+    },
+    {
+        "question": "Who was the first U.S. president to be assassinated?",
+        "answer": "abraham lincoln"
+    },
+    {
+        "question": "What is the meaning of the word \"philosophy\"?",
+        "answer": "love of wisdom"
+    },
+    {
+        "question": "Who is the most decorated Olympian of all time?",
+        "answer": "michael phelps"
+    },
+    {
+        "question": "Which two countries played in the first FIFA World Cup Final in 1930?",
+        "answer": "uruguay and argentina"
+    },
+    {
+        "question": "Which African country gained independence from France in 1960?",
+        "answer": "senegal"
+    },
+    {
+        "question": "Which Roman general famously crossed the Alps with his army in 218 BC?",
+        "answer": "hannibal"
+    },
+    {
+        "question": "What is the name of the famous landmark situated in Rio de Janeiro?",
+        "answer": "christ the redeemer"
+    },
+    {
+        "question": "What type of government does Germany have?",
+        "answer": "federal republic"
+    },
+    {
+        "question": "Who was the first African American woman to win the Nobel Prize in Literature?",
+        "answer": "morrison"
+    },
+    {
+        "question": "What was the first movie to ever be made with sound?",
+        "answer": "the jazz singer"
+    },
+    {
+        "question": "What kind of energy is produced from wind?",
+        "answer": "wind energy"
+    },
+    {
+        "question": "Who was the last queen of France before the French Revolution?",
+        "answer": "marie antoinette"
+    },
+    {
+        "question": "Who has won the most NBA championships in history?",
+        "answer": "boston celtics"
+    },
+    {
+        "question": "What is the name of Beyonce's alter ego?",
+        "answer": "sasha fierce"
+    },
+    {
+        "question": "What is the name of Aristotle's most famous student?",
+        "answer": "alexander the great"
+    },
+    {
+        "question": "Who is credited with developing the theory of cognitive dissonance?",
+        "answer": "leon festinger"
+    },
+    {
+        "question": "What does the acronym CPU stand for?",
+        "answer": "central processing unit"
+    },
+    {
+        "question": "Which mammal lays eggs?",
+        "answer": "platypus"
+    },
+    {
+        "question": "What is the main ingredient in a margarita cocktail?",
+        "answer": "tequila"
+    },
+    {
+        "question": "What does the acronym LASER stand for?",
+        "answer": "light amplification by stimulated emission of radiation"
+    },
+    {
+        "question": "What is the capital city of Afghanistan?",
+        "answer": "kabul"
+    }
+]
