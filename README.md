@@ -4,6 +4,23 @@ slmqa is a simple question-answer evaluation benchmark for small language models
 
 The score is the percentage of correct answers.
 
+### Sample
+
+```json
+{
+        "question": "What is the name of the highest mountain in the world?",
+        "answer": "everest"
+},
+{
+        "question": "What is the name of the famous Austrian composer who wrote the Ninth Symphony?",
+        "answer": "beethoven"
+},
+{
+        "question": "Which country is the largest by area?",
+        "answer": "russia"
+},
+```
+
 ### Example Usage
 
 ```python
@@ -36,21 +53,4 @@ for question_index, question_tokens in enumerate(tokens_list):
   bench.submit_answer(question_index, answer_string)
 
 score = bench.get_score()
-```
-
-### Sample
-
-```json
-{
-        "question": "What is the name of the highest mountain in the world?",
-        "answer": "everest"
-},
-{
-        "question": "What is the name of the famous Austrian composer who wrote the Ninth Symphony?",
-        "answer": "beethoven"
-},
-{
-        "question": "Which country is the largest by area?",
-        "answer": "russia"
-},
 ```
