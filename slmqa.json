@@ -853,7 +853,7 @@
     },
     {
         "question": "What is the melting point of gold?",
-        "answer": 1064
+        "answer": "1064"
     },
     {
         "question": "What is the capital of Egypt?",
@@ -1421,7 +1421,7 @@
     },
     {
         "question": "What is the distance of a marathon in kilometers?",
-        "answer": 42195
+        "answer": "42195"
     },
     {
         "question": "What fruit is the main ingredient in guacamole?",

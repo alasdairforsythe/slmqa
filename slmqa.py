@@ -13,9 +13,11 @@ class Benchmark:
     def submit_answer(self, idx, answer):
         answer = answer.lower()
         correct_answer = self.data[idx]['answer']
+        self.total += 1
         if correct_answer in answer:
             self.score += 1
-        self.total += 1
+            return True
+        return False
 
     def score(self):
         if self.total == 0:
