@@ -460,8 +460,8 @@
         "answer": "newton"
     },
     {
-        "question": "What is the name of the first Harry Potter book?",
-        "answer": "philosophers stone sorcerers stone in the us"
+        "question": "In Star Wars, Anakin Skywalker becomes known as which Sith lord?",
+        "answer": "vader"
     },
     {
         "question": "What is the name of the main character in The Hunger Games?",
@@ -561,7 +561,7 @@
     },
     {
         "question": "Who invented the World Wide Web?",
-        "answer": "tim bernerslee"
+        "answer": "berners"
     },
     {
         "question": "What is the name of the closest star to Earth?",
@@ -573,11 +573,11 @@
     },
     {
         "question": "Who wrote the Great Gatsby?",
-        "answer": "f scott fitzgerald"
+        "answer": "fitzgerald"
     },
     {
         "question": "What is the phenomenon known as when the Moon passes between the Earth and the Sun, blocking the sunlight?",
-        "answer": "solar eclipse"
+        "answer": "eclipse"
     },
     {
         "question": "What is the leading cause of gum disease?",
@@ -684,8 +684,8 @@
         "answer": "nomophobia"
     },
     {
-        "question": "What is the fear of running out of battery on your mobile device called?",
-        "answer": "low battery anxiety"
+        "question": "Name the country known as the Land of the Rising Sun.",
+        "answer": "japan"
     },
     {
         "question": "What is the scientific name for the fear of the number 13?",
@@ -1009,7 +1009,7 @@
     },
     {
         "question": "Who played the role of Tony Stark in the Marvel Cinematic Universe?",
-        "answer": "downey jr"
+        "answer": "downey"
     },
     {
         "question": "What is the capital of Syria?",
@@ -1032,36 +1032,32 @@
         "answer": "titanic"
     },
     {
-        "question": "What is the name of the famous painting by Vincent van Gogh that depicts a starry night?",
-        "answer": "starry night"
+        "question": "What is the name of the famous dance move popularized by Michael Jackson?",
+        "answer": "moonwalk"
     },
     {
         "question": "What is the name of the principle in physics that states that every action has an equal and opposite reaction?",
-        "answer": "newtons third law"
+        "answer": "third law"
     },
     {
-        "question": "How many players are on a football team?",
+        "question": "How many players are on an American football team?",
         "answer": "eleven"
     },
     {
-        "question": "Who won the Best Picture Oscar in 2020?",
-        "answer": "parasite"
+        "question": "Who won the Best Picture Oscar in 1995?",
+        "answer": "braveheart"
     },
     {
         "question": "What type of food is sushi?",
         "answer": "japanese"
     },
     {
-        "question": "What character is known for his green clothing and pointy hat?",
+        "question": "What character from Nottingham is known for stealing from the rich and giving to the poor?",
         "answer": "robin hood"
     },
     {
         "question": "What instrument does Stevie Wonder mainly play?",
         "answer": "piano"
-    },
-    {
-        "question": "What is the highest-grossing movie of all time?",
-        "answer": "avengers endgame"
     },
     {
         "question": "What is the name for the philosophy that reality can only be known through a person's subjective experience?",
@@ -1137,15 +1133,15 @@
     },
     {
         "question": "Who directed the movie \"E.T.\"?",
-        "answer": "steven spielberg"
+        "answer": "spielberg"
     },
     {
         "question": "Who wrote the famous tragedy \"Hamlet\"?",
         "answer": "shakespeare"
     },
     {
-        "question": "What is the smallest country in Europe?",
-        "answer": "vatican city"
+        "question": "Which festival is known as the festival of light?",
+        "answer": "diwali"
     },
     {
         "question": "What is the capital of India?",
@@ -1188,7 +1184,7 @@
         "answer": "cumulus"
     },
     {
-        "question": "What is the name of the port city on the Mediterranean Sea where Jesus was born?",
+        "question": "What is the name of the city where Jesus was born?",
         "answer": "bethlehem"
     },
     {
@@ -1249,7 +1245,7 @@
     },
     {
         "question": "Who sang \"Imagine\"?",
-        "answer": "john lennon"
+        "answer": "lennon"
     },
     {
         "question": "Who is considered the father of modern psychology?",
@@ -1352,8 +1348,8 @@
         "answer": "paramaribo"
     },
     {
-        "question": "Who is the protagonist in The Great Gatsby?",
-        "answer": "gatsby"
+        "question": "Which Disney/Pixar film follows the adventures of Woody and Buzz Lightyear, toys who belong to a young boy named Andy?",
+        "answer": "toy story"
     },
     {
         "question": "What is the name of the famous ancient Egyptian pharaoh?",
@@ -1444,27 +1440,27 @@
         "answer": "graphology"
     },
     {
-        "question": "Who wrote the Harry Potter series?",
-        "answer": "jk rowling"
+        "question": "Which is the shortest month of the year?",
+        "answer": "february"
     },
     {
         "question": "Which animal is known as the \"ship of the desert\"?",
         "answer": "camel"
     },
     {
-        "question": "Who played Neo in The Matrix trilogy?",
-        "answer": "keanu reeves"
+        "question": "Who starred in the original Jumanji movie?",
+        "answer": "robin williams"
     },
     {
         "question": "Who is the lead singer of the band Radiohead?",
-        "answer": "thom yorke"
+        "answer": "yorke"
     },
     {
         "question": "Who directed the movie Psycho?",
         "answer": "hitchcock"
     },
     {
-        "question": "What is the title of Beyonc\u00e9's first solo album?",
+        "question": "What is the title of Beyonce's first solo album?",
         "answer": "dangerously"
     },
     {
@@ -1513,7 +1509,7 @@
     },
     {
         "question": "Which scientist developed the three laws of motion?",
-        "answer": "isaac newton"
+        "answer": "newton"
     },
     {
         "question": "What is the largest species of penguin?",
@@ -1640,8 +1636,8 @@
         "answer": "dhaka"
     },
     {
-        "question": "What is the name of the protagonist in the Harry Potter series?",
-        "answer": "harry"
+        "question": "What is the name of the main antagonist in the Harry Potter series?",
+        "answer": "voldemort"
     },
     {
         "question": "What is the name of the princess in Sleeping Beauty?",
@@ -1669,7 +1665,7 @@
     },
     {
         "question": "Who wrote the fantasy novel series \"A Song of Ice and Fire\"?",
-        "answer": "george r r martin"
+        "answer": "martin"
     },
     {
         "question": "Who was the protagonist of F. Scott Fitzgerald's \"The Great Gatsby\"?",
@@ -1889,11 +1885,11 @@
     },
     {
         "question": "Who is known as the \u201cFather of the Computer\u201d?",
-        "answer": "charles babbage"
+        "answer": "babbage"
     },
     {
-        "question": "What is the national dish of Italy?",
-        "answer": "pizza"
+        "question": "What is the name of the mythological creature that turns into a wolf at full moon?",
+        "answer": "werewolf"
     },
     {
         "question": "What is the device used to measure time called?",
@@ -1912,8 +1908,8 @@
         "answer": "taj mahal"
     },
     {
-        "question": "What is the name of the famous historical landmark in Paris, France?",
-        "answer": "eiffel tower"
+        "question": "What is the name of the famous historical tower in Paris, France?",
+        "answer": "eiffel"
     },
     {
         "question": "Who won the Super Bowl in 2020?",
@@ -1936,8 +1932,8 @@
         "answer": "muhammad"
     },
     {
-        "question": "What is the famous landmark located in New York City?",
-        "answer": "statue of liberty"
+        "question": "What is the famous statue located in New York City?",
+        "answer": "liberty"
     },
     {
         "question": "What is the only continent that exists entirely in the Southern Hemisphere?",
@@ -1953,7 +1949,7 @@
     },
     {
         "question": "What is a jaguarundi?",
-        "answer": "a wildcat species"
+        "answer": "wildcat"
     },
     {
         "question": "What is the process called when liquid water turns into ice?",
@@ -1976,7 +1972,7 @@
         "answer": "freddie mercury"
     },
     {
-        "question": "What is the boiling point of water?",
+        "question": "What is the boiling point of water in celcius?",
         "answer": "100"
     },
     {
@@ -2088,8 +2084,8 @@
         "answer": "gandhi"
     },
     {
-        "question": "Who wrote \"The Picture of Dorian Gray\"?",
-        "answer": "wilde"
+        "question": "What is the name of the biggest technology company in South Korea?",
+        "answer": "samsung"
     },
     {
         "question": "What does NASA stand for?",
@@ -2221,7 +2217,7 @@
     },
     {
         "question": "What is the largest freshwater lake in Africa?",
-        "answer": "lake victoria"
+        "answer": "victoria"
     },
     {
         "question": "What is the organic compound that gives chili peppers their heat called?",
@@ -2264,8 +2260,8 @@
         "answer": "portuguese"
     },
     {
-        "question": "What is the name of the famous painting located in the Sistine Chapel?",
-        "answer": "creation"
+        "question": "In which country is the Sistine Chapel?",
+        "answer": "vatican"
     },
     {
         "question": "Who directed Pulp Fiction?",
@@ -2292,8 +2288,8 @@
         "answer": "school"
     },
     {
-        "question": "What is the capital city of Guinea-Bissau?",
-        "answer": "bissau"
+        "question": "Which country calls Jakarta it's capital city?",
+        "answer": "indonesia"
     },
     {
         "question": "What is the deepest point in the ocean?",
@@ -2309,7 +2305,7 @@
     },
     {
         "question": "In which city was Vincent van Gogh born?",
-        "answer": "groot zundert"
+        "answer": "zundert"
     },
     {
         "question": "What is the name given to the group of mammals that lay eggs?",
@@ -2332,8 +2328,8 @@
         "answer": "chaucer"
     },
     {
-        "question": "Who wrote the novel \"One Hundred Years of Solitude\"?",
-        "answer": "garca mrquez"
+        "question": "What is the slogan of Apple Inc.?",
+        "answer": "think different"
     },
     {
         "question": "What is the study of moths called?",
@@ -2364,7 +2360,7 @@
         "answer": "mediterranean"
     },
     {
-        "question": "What kind of animal is specifically bred for its fleece?",
+        "question": "What kind of animal is specifically bred for its woolen fleece?",
         "answer": "sheep"
     },
     {
@@ -2376,8 +2372,8 @@
         "answer": "mycology"
     },
     {
-        "question": "What is the term for the outermost layer of the Earth?",
-        "answer": "crust"
+        "question": "What is the layer of the Earth between the outer core and the crust, characterized by semi-solid rock material?",
+        "answer": "mantle"
     },
     {
         "question": "What is the name of the famous castle located in Germany?",
@@ -2461,11 +2457,11 @@
     },
     {
         "question": "What is the currency of Sweden?",
-        "answer": "swedish krona"
+        "answer": "krona"
     },
     {
-        "question": "What is the nickname given to the fastest man in the world?",
-        "answer": "lightning bolt"
+        "question": "Which mammal has no vocal cords?",
+        "answer": "giraffe"
     },
     {
         "question": "What is the capital of Jamaica?",
@@ -2721,7 +2717,7 @@
     },
     {
         "question": "What type of animal is Nemo from Finding Nemo?",
-        "answer": "clownfish"
+        "answer": "clown"
     },
     {
         "question": "Which mountain range runs through Spain?",
@@ -2753,7 +2749,7 @@
     },
     {
         "question": "Who wrote the opera \"The Magic Flute\"?",
-        "answer": "wolfgang amadeus mozart"
+        "answer": "mozart"
     },
     {
         "question": "Which psychologist's theories were the basis for the behaviorist movement?",
@@ -2768,7 +2764,7 @@
         "answer": "aerophobia"
     },
     {
-        "question": "What is the name of the famous painting by Leonardo da Vinci that features a woman with a mysterious smile?",
+        "question": "What is the name of the famous painting by Leonardo da Vinci that features a woman with an enigmatic smile?",
         "answer": "mona lisa"
     },
     {
@@ -2905,11 +2901,11 @@
     },
     {
         "question": "Who won the Nobel Prize in Literature in 2020?",
-        "answer": "louise gluck"
+        "answer": "gluck"
     },
     {
-        "question": "Who is the current Prime Minister of Japan?",
-        "answer": "yoshihide suga"
+        "question": "What is a female donkey called?",
+        "answer": "jenny"
     },
     {
         "question": "Who won the Best Actress Oscar in 2020?",
@@ -2917,15 +2913,15 @@
     },
     {
         "question": "Who won the Men's Singles title at Wimbledon in 2019?",
-        "answer": "novak djokovic"
+        "answer": "djokovic"
     },
     {
         "question": "Who designed the Eiffel Tower?",
         "answer": "gustave eiffel"
     },
     {
-        "question": "What are the four natural forces of the universe?",
-        "answer": "gravity electromagnetic strong nuclear weak nuclear"
+        "question": "What is the opposite of matter?",
+        "answer": "antimatter"
     },
     {
         "question": "What is the name of the chemical element with the symbol Na?",
@@ -2989,11 +2985,11 @@
     },
     {
         "question": "What is the name of the tower that holds Big Ben?",
-        "answer": "elizabeth tower"
+        "answer": "elizabeth"
     },
     {
-        "question": "Which creature has the longest lifespan?",
-        "answer": "ocean quahog clam"
+        "question": "Leaves are usually which color?",
+        "answer": "green"
     },
     {
         "question": "What is the name of the band that originated the album \"The Wall\"?",
@@ -3004,8 +3000,8 @@
         "answer": "viking 1"
     },
     {
-        "question": "What did the philosopher, Socrates, famously say about wisdom?",
-        "answer": "i know that i am intelligent because i know that i know nothing"
+        "question": "In \"Aladdin,\" what is the name of the princess whom Aladdin falls in love with?",
+        "answer": "jasmin"
     },
     {
         "question": "What is the largest country in Africa by area?",
@@ -3016,7 +3012,7 @@
         "answer": "hamill"
     },
     {
-        "question": "Who is the lead singer of the band Nirvana?",
+        "question": "Who was the lead singer of the band Nirvana?",
         "answer": "cobain"
     },
     {
@@ -3040,8 +3036,8 @@
         "answer": "yuri gagarin"
     },
     {
-        "question": "What is the French word for \"please\"?",
-        "answer": "sil vous plat"
+        "question": "What is the legal term for a voluntary written statement made under oath?",
+        "answer": "affidavit"
     },
     {
         "question": "What is the name of a five-sided shape?",
@@ -3068,8 +3064,8 @@
         "answer": "asteroid"
     },
     {
-        "question": "What does the abbreviation \"UNESCO\" stand for?",
-        "answer": "united nations educational scientific and cultural organization"
+        "question": "Who designed the Sydney Opera House?",
+        "answer": "utzon"
     },
     {
         "question": "What type of flower is the symbol of the Netherlands?",
@@ -3080,8 +3076,8 @@
         "answer": "bacon"
     },
     {
-        "question": "What type of food is hummus?",
-        "answer": "middle eastern"
+        "question": "Which country is Aesop’s Fables believed to originate in?",
+        "answer": "greece"
     },
     {
         "question": "What nut is traditionally paired with chocolate in Nutella spread?",
@@ -3121,11 +3117,11 @@
     },
     {
         "question": "What is the term for the loss of memory of the events immediately preceding a trauma or injury?",
-        "answer": "retrograde amnesia"
+        "answer": "amnesia"
     },
     {
-        "question": "What does the acronym RADAR stand for?",
-        "answer": "radio detection and ranging"
+        "question": "Thor was the son of which God?",
+        "answer": "odin"
     },
     {
         "question": "Who was the Roman goddess of agriculture?",
@@ -3137,23 +3133,23 @@
     },
     {
         "question": "Who wrote the novel \"The Picture of Dorian Gray\"?",
-        "answer": "oscar wilde"
+        "answer": "wilde"
     },
     {
-        "question": "What is the birthplace of Leonardo da Vinci?",
-        "answer": "vinci"
+        "question": "What was the name of King Henry VIII's first wife?",
+        "answer": "catherine"
     },
     {
         "question": "What is the driest place on earth?",
-        "answer": "atacama desert"
+        "answer": "atacama"
     },
     {
         "question": "What is the oldest university in the world?",
-        "answer": "university of bologna"
+        "answer": "bologna"
     },
     {
         "question": "Who directed the film \"The Shining\"?",
-        "answer": "stanley kubrick"
+        "answer": "kubrick"
     },
     {
         "question": "Who is the current Chancellor of Germany?",
@@ -3164,8 +3160,8 @@
         "answer": "ursa major"
     },
     {
-        "question": "What is the smallest animal in the world?",
-        "answer": "etruscan shrew"
+        "question": "By what name were the Egyptian kings/rulers known?",
+        "answer": "pharaoh"
     },
     {
         "question": "What is the name of the theory proposed by Charles Darwin?",
@@ -3176,8 +3172,8 @@
         "answer": "honshu"
     },
     {
-        "question": "Which car company has the 2019 model called \"Crosstrek\"?",
-        "answer": "subaru"
+        "question": "Which automaker is known for producing the iconic sports car model, the 911?",
+        "answer": "porsche"
     },
     {
         "question": "Who starred in the movie \"The Big Lebowski\"?",
@@ -3205,7 +3201,7 @@
     },
     {
         "question": "Who directed the movie Avatar?",
-        "answer": "james cameron"
+        "answer": "cameron"
     },
     {
         "question": "Who is the best-selling music artist of all time?",
@@ -3225,7 +3221,7 @@
     },
     {
         "question": "What is the title of the first Harry Potter book?",
-        "answer": "philosophers stone"
+        "answer": "stone"
     },
     {
         "question": "What is the name of the philosophy that emphasizes maximizing pleasure and minimizing pain?",
@@ -3236,8 +3232,8 @@
         "answer": "subtract"
     },
     {
-        "question": "What is the capital city of Nepal?",
-        "answer": "kathmandu"
+        "question": "Kathmandu is the capital city of which country?",
+        "answer": "nepal"
     },
     {
         "question": "What is the largest lizard in the world?",
@@ -3252,8 +3248,8 @@
         "answer": "decomposition"
     },
     {
-        "question": "Which novel is about a pig named Wilbur and his friendship with a spider named Charlotte?",
-        "answer": "charlottes web"
+        "question": "Which element is said to keep bones strong?",
+        "answer": "calcium"
     },
     {
         "question": "What type of energy is used in nuclear power plants?",
@@ -3273,7 +3269,7 @@
     },
     {
         "question": "Who is credited with saying \"I think, therefore I am\"?",
-        "answer": "ren descartes"
+        "answer": "descartes"
     },
     {
         "question": "What disorder is characterized by a split personality?",
@@ -3301,7 +3297,7 @@
     },
     {
         "question": "What is the capital of the United States?",
-        "answer": "washington dc"
+        "answer": "washington"
     },
     {
         "question": "What animal is the largest living land mammal?",
@@ -3353,7 +3349,7 @@
     },
     {
         "question": "Who was the last emperor of Russia?",
-        "answer": "nicholas ii"
+        "answer": "nicholas"
     },
     {
         "question": "What is the national dish of Spain?",
@@ -3524,15 +3520,15 @@
         "answer": "constellation"
     },
     {
-        "question": "What is the first letter of the Greek alphabet?",
-        "answer": "alpha"
+        "question": "What is the name of the last letter of the Greek alphabet?",
+        "answer": "omega"
     },
     {
         "question": "Who is the author of The Hunger Games series?",
         "answer": "collins"
     },
     {
-        "question": "What is the name of the famous American fast food chain known for burgers and fries?",
+        "question": "What is the name of the famous American fast food chain known for burgers and fries, with the 'M' logo?",
         "answer": "mcdonalds"
     },
     {
@@ -3540,12 +3536,12 @@
         "answer": "manchester united"
     },
     {
-        "question": "What is the name of the two largest planets in our solar system?",
-        "answer": "jupiter and saturn"
+        "question": "What is the name of the largest planet in our solar system?",
+        "answer": "jupiter"
     },
     {
         "question": "What is the most populous city in the United States?",
-        "answer": "new york city"
+        "answer": "new york"
     },
     {
         "question": "Who was the first U.S. president to be assassinated?",
@@ -3557,11 +3553,11 @@
     },
     {
         "question": "Who is the most decorated Olympian of all time?",
-        "answer": "michael phelps"
+        "answer": "phelps"
     },
     {
-        "question": "Which two countries played in the first FIFA World Cup Final in 1930?",
-        "answer": "uruguay and argentina"
+        "question": "What type of animal is a Flemish giant?",
+        "answer": "rabbit"
     },
     {
         "question": "Which African country gained independence from France in 1960?",
@@ -3588,8 +3584,8 @@
         "answer": "the jazz singer"
     },
     {
-        "question": "What kind of energy is produced from wind?",
-        "answer": "wind energy"
+        "question": "What does \"www\" stand for in a website browser?",
+        "answer": "world wide web"
     },
     {
         "question": "Who was the last queen of France before the French Revolution?",
@@ -3605,11 +3601,11 @@
     },
     {
         "question": "What is the name of Aristotle's most famous student?",
-        "answer": "alexander the great"
+        "answer": "alexander"
     },
     {
         "question": "Who is credited with developing the theory of cognitive dissonance?",
-        "answer": "leon festinger"
+        "answer": "festinger"
     },
     {
         "question": "What does the acronym CPU stand for?",
@@ -3620,12 +3616,12 @@
         "answer": "platypus"
     },
     {
-        "question": "What is the main ingredient in a margarita cocktail?",
+        "question": "What is the main alchoholic ingredient in a margarita cocktail?",
         "answer": "tequila"
     },
     {
-        "question": "What does the acronym LASER stand for?",
-        "answer": "light amplification by stimulated emission of radiation"
+        "question": "What were Jack and Jill going up the hill to fetch?",
+        "answer": "water"
     },
     {
         "question": "What is the capital city of Afghanistan?",
